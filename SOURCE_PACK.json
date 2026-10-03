@@ -1,0 +1,119 @@
+{
+  "gameName": "Drag'n Wash",
+  "sources": [
+    {
+      "id": "steam-4739660",
+      "type": "official_store",
+      "url": "https://store.steampowered.com/app/4739660/Dragn_Wash/",
+      "accessed": "2026-09-16",
+      "usedFor": [
+        "title",
+        "developer",
+        "release date",
+        "platforms",
+        "genre tags",
+        "adult descriptors",
+        "controller support",
+        "single-player",
+        "official loop / endings timing",
+        "no native VR on store page"
+      ]
+    },
+    {
+      "id": "steamdb-4739660",
+      "type": "store_metadata",
+      "url": "https://steamdb.info/app/4739660/",
+      "accessed": "2026-09-16",
+      "usedFor": [
+        "app id confirmation",
+        "categories including full controller support",
+        "release metadata cross-check"
+      ]
+    },
+    {
+      "id": "itch-official",
+      "type": "official_store",
+      "url": "https://gatordragongames.itch.io/dragnwash",
+      "accessed": "2026-09-16",
+      "usedFor": [
+        "developer page",
+        "team credits",
+        "platforms",
+        "minimum price ~$15",
+        "Steam key included with itch purchase",
+        "official description and endings timing",
+        "adult content framing",
+        "community comments on same page"
+      ]
+    },
+    {
+      "id": "community-itch-comments",
+      "type": "community_discussion",
+      "url": "https://gatordragongames.itch.io/dragnwash",
+      "accessed": "2026-09-16",
+      "usedFor": [
+        "character names Ryan, Alexander, Conrad",
+        "clean bar missed dirt (tail ink / neck)",
+        "credits unstuck kobold softlock warning",
+        "Conrad later-visit request-order softlock",
+        "continue-after-finish credits dump"
+      ]
+    },
+    {
+      "id": "itch-vr-mod",
+      "type": "community_mod",
+      "url": "https://randomcat4.itch.io/dragn-wash-vr-mod",
+      "accessed": "2026-09-16",
+      "usedFor": [
+        "no official native VR clarification",
+        "BepInEx 6 beta + UnityVRMod",
+        "in development status",
+        "ownership requirement",
+        "Easy install ZIP",
+        "Steam launch option %command% -force-d3d11",
+        "F10 recenter / F11 toggle VR",
+        "crash tip -force-gfx-direct"
+      ]
+    },
+    {
+      "id": "steam-news-kobold-hotfix",
+      "type": "official_news",
+      "url": "https://store.steampowered.com/news/app/4739660/1843481262700350",
+      "title": "Kobold Hotfix",
+      "date": "2026-09-13",
+      "accessed": "2026-09-16",
+      "usedFor": [
+        "Invert Y mouse options in Options",
+        "reduce motion sickness option for sprayer",
+        "Unstick Kobold button in game menu",
+        "Conrad softlock fix for request-order case on level 8",
+        "Steam Deck touchscreen spin fix",
+        "native Linux Nvidia graphics fix",
+        "other hotfix bug fixes"
+      ]
+    },
+    {
+      "id": "steam-news-deck-verified",
+      "type": "official_news",
+      "url": "https://store.steampowered.com/news/app/4739660/1843481262703308",
+      "title": "Steam Deck Verified!",
+      "date": "2026-09-15",
+      "accessed": "2026-09-16",
+      "usedFor": [
+        "Officially Steam Deck Verified",
+        "native Linux build emphasis"
+      ]
+    },
+    {
+      "id": "github-localization-v0-6-0",
+      "type": "patch_notes_mirror",
+      "url": "https://github.com/TomXV/dragnwash-localization/releases/tag/v0.6.0",
+      "accessed": "2026-09-16",
+      "usedFor": [
+        "secondary cross-check of Options / Unstick wording",
+        "build 9/12/2026_a93aa21a label",
+        "Ryan and Alexander named in dialogue notes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "Drag'n Wash Guide: Endings, Characters & VR",
+  "description": "Player hub for Drag'n Wash: beginner wash tips, three endings, Ryan Alexander Conrad, controls, softlock escapes, and community VR mod setup notes.",
+  "keywords": [
+    "Drag'n Wash",
+    "Drag'n Wash guide",
+    "Drag'n Wash wiki",
+    "Drag'n Wash endings",
+    "Drag'n Wash beginner guide"
+  ],
+  "primaryKeyword": "Drag'n Wash",
+  "secondaryKeywords": [
+    "Drag'n Wash guide",
+    "Drag'n Wash wiki",
+    "Drag'n Wash endings",
+    "Drag'n Wash characters"
+  ],
+  "searchIntent": "Players looking up Drag'n Wash basics, where to buy it, and which practical guide to open first.",
+  "priority": "P0",
+  "navVisible": true,
+  "wordCountTarget": 1800,
+  "factsStatus": "verified",
+  "lastReviewed": "2026-09-16",
+  "hero": {
+    "eyebrow": "Independent player guides",
+    "heading": "Drag'n Wash Guide",
+    "lead": "Drag'n Wash is an adult-only dragon wash simulation from Gator Dragon Games. You run a soap-and-wash service, talk with visiting dragons, and tend to personal requests as comfort grows across three endings.",
+    "supportingText": "This hub routes you to beginner progress, endings and saves, character overviews, controls and comfort options, softlock escapes, and community VR mod setup. Buy and patch on Steam or itch.io.",
+    "primaryLink": {
+      "label": "Beginner Guide",
+      "slug": "beginner-guide"
+    },
+    "secondaryLink": {
+      "label": "Endings Overview",
+      "slug": "endings-guide"
+    }
+  },
+  "sections": [
+    {
+      "id": "what-dragn-wash-is",
+      "heading": "What Drag'n Wash Is",
+      "eyebrow": "Answer first",
+      "intro": "A short definition so you know whether this is the game you meant.",
+      "paragraphs": [
+        "Drag'n Wash (also styled DragN'Wash) is a single-player casual indie simulation. You operate a wash service for dragons: clean them, chat, and respond as trust and comfort rise over a visit. Official store copy frames the loop as soap, wash, conversation, and tending to requests rather than combat, crafting, or open-world exploration.",
+        "The game is adult-only. Store descriptors cover mature romance and personal scenes with male dragons and the player. This guide site stays SFW and describes systems, routes, and troubleshooting without explicit sexual detail. Use Steam or itch.io for purchase pages and age-gated store text.",
+        "Sessions are short by design. Official materials describe roughly ninety minutes per ending, with three endings total. That makes replay and save planning more important than grinding. Full controller support is listed on Steam categories, and the game ships for Windows, macOS, and Linux.",
+        "If you arrived from a search for a wiki-style overview, start here on the homepage, then open only the child guide that matches your intent. Progress comes from careful washes, attentive chat, and ordered personal requests across a small cast of dragons."
+      ]
+    },
+    {
+      "id": "quick-facts",
+      "heading": "Quick Facts",
+      "eyebrow": "At a glance",
+      "intro": "Confirmed release basics from Steam app 4739660, SteamDB, and the official itch.io page.",
+      "table": {
+        "caption": "Drag'n Wash release snapshot",
+        "columns": [
+          "Fact",
+          "Detail"
+        ],
+        "rows": [
+          [
+            "Developer / publisher",
+            "Gator Dragon Games"
+          ],
+          [
+            "Team credits (itch)",
+            "GatorDragonGames, Hopfel, Jigglebonez, RalivDev, naelstrof, Ahze"
+          ],
+          [
+            "Steam release",
+            "September 10, 2026"
+          ],
+          [
+            "Platforms",
+            "Windows, macOS, Linux"
+          ],
+          [
+            "Storefronts",
+            "Steam and itch.io (itch purchase includes a Steam key)"
+          ],
+          [
+            "itch minimum price",
+            "About $15 USD"
+          ],
+          [
+            "Genre",
+            "Simulation; Steam also lists Casual and Indie"
+          ],
+          [
+            "Players",
+            "Single-player"
+          ],
+          [
+            "Session length",
+            "About 90 minutes per ending"
+          ],
+          [
+            "Endings",
+            "Three"
+          ],
+          [
+            "Controller support",
+            "Full controller support"
+          ],
+          [
+            "Content rating",
+            "Adult-only / NSFW"
+          ],
+          [
+            "Native VR",
+            "Not listed on official store pages"
+          ]
+        ]
+      },
+      "paragraphs": [
+        "Use this table when you only need store facts. Deeper how-to pages below cover first washes, route planning, characters, tools, softlock escapes, and the community VR mod.",
+        "Gator Dragon Games publishes Drag'n Wash on both major indie storefronts so you can choose Steam checkout or itch checkout. The itch listing’s Steam key matters for players who prefer itch payments. Team credits on itch also name GatorDragonGames, Hopfel, Jigglebonez, RalivDev, naelstrof, and Ahze—useful when you are verifying you have the official project.",
+        "Because each ending is intentionally short, treat the quick facts as planning numbers: budget about ninety minutes when you commit to a route, keep a spare evening for a second ending, and do not overwrite your only file after credits."
+      ]
+    },
+    {
+      "id": "start-here",
+      "heading": "Start Here",
+      "eyebrow": "Guide hub",
+      "intro": "Pick the page that matches what you came to search.",
+      "paragraphs": [
+        "New players should begin with the beginner guide: first wash flow, progress habits, stuck clean-bar checks, and save discipline. If you already finished one route and want the other endings without wasting replays, open the endings guide next. Character pages help when you care about a specific dragon. Controls and VR pages solve input, comfort, and headset setup questions. If you are stuck in geometry, a softlock, or a clean-bar finish, open the escape guide.",
+        "Think of this homepage as a router, not a spoiler dump. Drag'n Wash search intent splits cleanly: buyers want facts, beginners want the wash loop, completionists want endings and saves, fans want character tone, headset users want an honest VR answer, and stuck players want recovery steps. Each linked page below is written for one of those jobs."
+      ],
+      "links": [
+        {
+          "label": "Beginner wash and progress tips",
+          "slug": "beginner-guide",
+          "description": "First session checklist, clean-bar stuck fixes, and save habits."
+        },
+        {
+          "label": "Three endings and save-slot strategy",
+          "slug": "endings-guide",
+          "description": "Route overview with spoiler warning and replay planning."
+        },
+        {
+          "label": "Ryan, Alexander, and Conrad overview",
+          "slug": "characters",
+          "description": "Cast orientation and comfort-route tips."
+        },
+        {
+          "label": "Controls, tools, and comfort options",
+          "slug": "controls-and-tools",
+          "description": "Controller support, Invert Look Y, Sprayer Reduce Motion, wash habits."
+        },
+        {
+          "label": "Community VR mod install checks",
+          "slug": "vr-mod",
+          "description": "Unofficial VR setup, Steam launch flag, and safety notes."
+        },
+        {
+          "label": "Unstick, softlocks, and escape steps",
+          "slug": "how-to-escape",
+          "description": "Unstick Kobold, clean-bar leftovers, Conrad request order, reload timing."
+        },
+        {
+          "label": "Gameplay and playthrough",
+          "slug": "gameplay",
+          "description": "Wash loop, progression, and where endings decisions sit."
+        },
+        {
+          "label": "Mods and safe setup",
+          "slug": "mods",
+          "description": "Mod types, install habits, and the separate VR mod guide."
+        }
+      ]
+    },
+    {
+      "id": "gameplay-loop",
+      "heading": "How the Gameplay Loop Works",
+      "eyebrow": "Core systems",
+      "intro": "What a typical visit asks you to do, without spoiling late-route beats.",
+      "paragraphs": [
+        "Each visit centers on washing a dragon thoroughly while conversation and comfort advance. Dirt is not always on the obvious front surfaces: itch comments often blame unfinished jobs on missed spots such as ink on a tail or the back of the neck even when the clean bar looks nearly full. Restarting a job and rechecking hard-to-see angles is the practical fix when progress stalls.",
+        "As comfort grows, personal requests appear. Follow in-job prompts in the order the visit presents them. Community troubleshooting warns that completing certain personal requests out of the prompted order—especially on later Conrad visits—can softlock a session. Treat request order as part of the wash loop, not optional flavor.",
+        "After a slot finishes, continuing from that same save can dump you into credits. Plan separate saves before late branches if you intend to chase multiple endings. Official copy already frames three endings at about ninety minutes each, so a little save hygiene saves a full replay.",
+        "The loop stays single-player and simulation-focused. There is no competitive mode or live-service grind layer in the store description. Your time goes into careful cleaning, attentive chat, and choosing when to push comfort versus when to finish the wash cleanly.",
+        "A useful mental model for Drag'n Wash is “short story visits,” not “infinite scrubbing.” Once you can finish a job without hunting the last dirt speck for ten minutes, comfort pacing becomes the real skill. That is also why separate saves matter: the game is brief enough to replay, but only if you do not trap yourself in a credits-locked file after the first ending."
+      ],
+      "links": [
+        {
+          "label": "Read the full beginner checklist",
+          "slug": "beginner-guide"
+        },
+        {
+          "label": "See wash tools and control tips",
+          "slug": "controls-and-tools"
+        },
+        {
+          "label": "Fix stuck states and softlocks",
+          "slug": "how-to-escape"
+        }
+      ]
+    },
+    {
+      "id": "choose-what-you-need",
+      "heading": "Choose What You Need",
+      "eyebrow": "Intent routing",
+      "intro": "Match common search intents to the right page.",
+      "subsections": [
+        {
+          "heading": "I just bought the game",
+          "paragraphs": [
+            "Open the beginner guide first. Learn the wash pass order, how to read a stuck clean bar, and how to keep a clean save before late scenes. Then skim controls for Invert Look Y, Sprayer Reduce Motion, and Unstick Kobold on the pause menu."
+          ]
+        },
+        {
+          "heading": "I want all three endings",
+          "paragraphs": [
+            "Use the endings guide for spoiler-aware route planning and save-slot strategy. Keep one clear save before major branches. Pair it with the characters page when you want to specialize on Ryan, Alexander, or Conrad."
+          ]
+        },
+        {
+          "heading": "I care about a specific dragon",
+          "paragraphs": [
+            "The characters page summarizes Ryan, Alexander, and Conrad for route focus. Pair it with the endings guide when you are route hunting rather than browsing flavor."
+          ]
+        },
+        {
+          "heading": "I am stuck or softlocked",
+          "paragraphs": [
+            "Open the escape guide for Unstick Kobold, clean-bar leftovers, Conrad request-order softlocks, geometry traps, and when a reload is safer than menu experiments."
+          ]
+        },
+        {
+          "heading": "I want VR or input help",
+          "paragraphs": [
+            "Native VR is not listed on official store pages. The VR mod page covers the community itch project, ownership requirement, Easy Install ZIP, the Steam launch option `%command% -force-d3d11`, F10/F11 recenter or toggle notes, and the `-force-gfx-direct` crash tip. Controls covers flat wash-loop and comfort options."
+          ]
+        },
+        {
+          "heading": "I only have one evening",
+          "paragraphs": [
+            "Plan for a single Drag'n Wash ending. Read the beginner checklist, keep one backup before late scenes, and postpone VR experiments. If the evening goes well, skim the endings guide before a second session instead of overwriting the clear you just earned."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Browse character pages",
+          "slug": "characters"
+        },
+        {
+          "label": "Open escape and softlock steps",
+          "slug": "how-to-escape"
+        },
+        {
+          "label": "Check VR mod safety steps",
+          "slug": "vr-mod"
+        }
+      ]
+    },
+    {
+      "id": "current-release-and-support",
+      "heading": "Current Release & Support",
+      "eyebrow": "Stores and patches",
+      "intro": "Where to buy, what platforms are supported, and a recent options update.",
+      "paragraphs": [
+        "Buy on Steam (app 4739660) or on the official Gator Dragon Games itch.io page. An itch purchase includes a Steam key. Official platforms are Windows, macOS, and Linux. Steam lists full controller support among its categories. Per official Steam news on September 15, 2026, Drag'n Wash is Steam Deck Verified, with emphasis on the native Linux build.",
+        "The official Kobold Hotfix Steam news (September 13, 2026) adds Invert Look Y / invert-Y mouse options and Sprayer Reduce Motion under Options, plus Unstick Kobold on the game/pause menu. Those options matter for comfort and stuck recovery during normal play. Localization release notes can serve as a secondary wording cross-check only.",
+        "Support and patch notes live with the developer on Steam and itch. This site is independent: we do not sell keys, host binaries, or replace official age gates. For stuck states, prefer pause-menu Unstick Kobold during play, and avoid experimental credits menu choices that players still warn about.",
+        "When you compare storefronts, match the title carefully: Drag'n Wash from Gator Dragon Games on Steam app 4739660 and the matching itch project. Adult storefront filters and OS builds can change what you see in search, so prefer official developer links over random mirrors."
+      ],
+      "links": [
+        {
+          "label": "Endings save tips before you softlock",
+          "slug": "endings-guide"
+        },
+        {
+          "label": "Escape checklist for stuck states",
+          "slug": "how-to-escape"
+        }
+      ]
+    },
+    {
+      "id": "adult-content-and-site-scope",
+      "heading": "Adult Content & Site Scope",
+      "eyebrow": "SFW disclaimer",
+      "intro": "What this guide covers and what it deliberately omits.",
+      "paragraphs": [
+        "Drag'n Wash is an adult game. Official marketing describes male dragons, male-on-male dragon content, and male dragon on player content. Comfort growth unlocks mature romance and personal request scenes. We state that fact so buyers are not surprised, then keep guide text non-explicit.",
+        "You will not find pornographic descriptions, genital detail, step-by-step sex acts, or codes, drops, or rewards filler on these pages. You will find beginner progress advice, endings and save strategy, character orientation, control and tool habits, softlock escapes, and community VR install checks with links only to itch project pages—not hosted mod files.",
+        "Editorial updates on this Drag'n Wash guide set are dated in each page footer metadata as last reviewed. If a patch changes softlock behavior, VR install steps, or storefront details, prefer the newest official notes and treat older community workarounds as historical until reconfirmed."
+      ]
+    },
+    {
+      "id": "sources",
+      "heading": "Sources",
+      "intro": "Primary references used for this page. Official store facts and patch notes are separated from itch comment troubleshooting.",
+      "paragraphs": [
+        "Prefer these pages when a patch changes options, softlock behavior, or mod install steps. Label community comments as player reports until an official note confirms them."
+      ],
+      "externalLinks": [
+        {
+          "label": "Steam store page (app 4739660)",
+          "url": "https://store.steampowered.com/app/4739660/Dragn_Wash/",
+          "description": "Official release facts, platforms, controller support, adult framing."
+        },
+        {
+          "label": "Steam news: Kobold Hotfix",
+          "url": "https://store.steampowered.com/news/app/4739660/1843481262700350",
+          "description": "Official Invert Look Y, Sprayer Reduce Motion, Unstick Kobold, Conrad level-8 softlock fix."
+        },
+        {
+          "label": "Steam news: Steam Deck Verified!",
+          "url": "https://store.steampowered.com/news/app/4739660/1843481262703308",
+          "description": "Official Steam Deck Verified announcement (Sep 15, 2026) and native Linux emphasis."
+        },
+        {
+          "label": "Official itch.io page",
+          "url": "https://gatordragongames.itch.io/dragnwash",
+          "description": "Store copy, Steam key note, team credits, and player comments."
+        },
+        {
+          "label": "SteamDB app 4739660",
+          "url": "https://steamdb.info/app/4739660/",
+          "description": "App metadata and category cross-check."
+        },
+        {
+          "label": "Community VR mod itch page",
+          "url": "https://randomcat4.itch.io/dragn-wash-vr-mod",
+          "description": "Unofficial headset mod project and install notes."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Drag'n Wash?",
+      "answer": "It is a single-player adult simulation from Gator Dragon Games where you wash dragons, chat, and tend to personal requests as comfort grows. Official materials list about ninety minutes per ending and three endings total."
+    },
+    {
+      "question": "Where can I buy Drag'n Wash?",
+      "answer": "On Steam and on the official itch.io page. Platforms are Windows, macOS, and Linux. An itch purchase includes a Steam key. itch lists a minimum price around $15 USD."
+    },
+    {
+      "question": "Is the game controller-friendly?",
+      "answer": "Yes. Steam categories list full controller support. Official Kobold Hotfix notes document Invert Look Y and Sprayer Reduce Motion under Options."
+    },
+    {
+      "question": "Is Drag'n Wash Steam Deck Verified?",
+      "answer": "Yes. Official Steam news on September 15, 2026 announces Steam Deck Verified status and highlights the native Linux build."
+    },
+    {
+      "question": "Does Drag'n Wash have native VR?",
+      "answer": "No native VR is listed on official store pages. A community VR mod exists on itch.io. You must own the game; see our VR mod page for launch flags and safety checks."
+    },
+    {
+      "question": "How long is each ending?",
+      "answer": "Official description places each ending around ninety minutes, with three endings overall. Separate saves before late branches reduce wasted replays."
+    },
+    {
+      "question": "Is this website official or explicit?",
+      "answer": "Neither. It is an independent SFW guide hub. Official storefronts remain Steam and itch.io. Mature scenes exist in the game; this site discusses systems and routes without explicit sexual writing."
+    }
+  ],
+  "screenshots": [],
+  "densityTargets": [
+    {
+      "term": "Drag'n Wash",
+      "min": 0.8,
+      "max": 2
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "gameName": "Drag'n Wash",
+  "reviewedAt": "2026-09-16",
+  "primaryMarket": "en",
+  "opportunityMode": "breakout_new_game",
+  "queryClusters": [
+    {
+      "cluster": "brand_nav",
+      "examples": ["Drag'n Wash", "DragN'Wash", "Drag'n Wash Steam", "Drag'n Wash itch"],
+      "intent": "Identify the game, stores, platforms, and adult rating.",
+      "siteResponse": "Homepage quick facts + release/support section."
+    },
+    {
+      "cluster": "beginner",
+      "examples": ["Drag'n Wash guide", "Drag'n Wash beginner guide", "Drag'n Wash tips", "Drag'n Wash clean bar"],
+      "intent": "First wash progress and stuck-job help.",
+      "siteResponse": "beginner-guide with steps and clean-bar checklist; deep recovery on how-to-escape."
+    },
+    {
+      "cluster": "endings",
+      "examples": ["Drag'n Wash endings", "Drag'n Wash ending guide", "Drag'n Wash routes"],
+      "intent": "How many endings and how to plan replays.",
+      "siteResponse": "endings-guide with Quick Answer, Official vs Community table, and save-slot strategy."
+    },
+    {
+      "cluster": "characters",
+      "examples": ["Drag'n Wash characters", "Drag'n Wash Ryan", "Drag'n Wash Conrad", "Drag'n Wash Alexander"],
+      "intent": "Who the dragons are and which route to prioritize.",
+      "siteResponse": "characters page; endings-guide for route saves; how-to-escape for Conrad softlock."
+    },
+    {
+      "cluster": "escape_softlock",
+      "examples": ["How to Escape Drag'n Wash", "Drag'n Wash unstick", "Drag'n Wash softlock", "Drag'n Wash stuck"],
+      "intent": "Recover from geometry stuck, clean-bar leftovers, or softlocks.",
+      "siteResponse": "how-to-escape checklist for Unstick Kobold, clean-bar, Conrad request order, reload timing."
+    },
+    {
+      "cluster": "controls_vr",
+      "examples": ["Drag'n Wash controls", "Drag'n Wash controller", "Drag'n Wash VR", "Drag'n Wash VR mod"],
+      "intent": "Input help and whether VR is real/official.",
+      "siteResponse": "controls-and-tools (Invert Look Y, Sprayer Reduce Motion, Unstick) + vr-mod safety page."
+    }
+  ],
+  "competitorGaps": [
+    {
+      "gap": "Actionable checklists",
+      "detail": "Competitors often summarize lore or explicit scenes; fewer durable clean-bar, save-slot, and request-order checklists.",
+      "ourAngle": "Beginner stuck-bar checklist, endings slot map, escape recovery, VR pre-install checklist."
+    },
+    {
+      "gap": "SFW clarity for adult game SERP",
+      "detail": "Many results are either store pages or explicit wikis. Players still need non-explicit systems help.",
+      "ourAngle": "State adult-only factually once, keep guides non-explicit, no porn CTAs."
+    },
+    {
+      "gap": "VR install safety",
+      "detail": "Confusion between native VR and community mod; risky mirror links.",
+      "ourAngle": "No native VR on store pages; link only itch mod project; ownership, Easy Install ZIP, -force-d3d11, F10/F11, -force-gfx-direct."
+    },
+    {
+      "gap": "Verifiable stuck-state recovery over fragile Ryan trigger sheets",
+      "detail": "Ryan ending exact triggers cannot be multi-source verified; softlock/unstick guidance is patch- and comment-backed.",
+      "ourAngle": "Ship how-to-escape instead of ryan-ending-guide; keep Ryan inside characters + endings planning."
+    },
+    {
+      "gap": "Character naming accuracy",
+      "detail": "Risk of competitor misspellings or wrong cast names.",
+      "ourAngle": "Ryan, Alexander, Conrad only; cross-check itch comments and localization dialogue notes."
+    }
+  ],
+  "excludeFromLaunch": [
+    "codes page",
+    "drops/rewards page",
+    "generic /wiki dump page",
+    "explicit scene walkthroughs",
+    "hosted mod binaries",
+    "ryan-ending-guide (unverified exact triggers)"
+  ],
+  "titleDescriptionRules": {
+    "titleMax": 60,
+    "descriptionRange": [135, 160],
+    "h1MatchesBrief": true
+  },
+  "notes": "Do not copy competitor text. Prefer official Steam/itch facts; label itch-comment troubleshooting. Keep density of Drag'n Wash natural (about 0.8–2.0%)."
+}

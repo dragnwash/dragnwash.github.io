@@ -1,0 +1,556 @@
+{
+  "gameName": "Drag'n Wash",
+  "lastReviewed": "2026-09-16",
+  "contentMode": "verified_sfw_guides",
+  "pages": [
+    {
+      "slug": "",
+      "lead": "Drag'n Wash is an adult-only dragon wash simulation from Gator Dragon Games. You run a soap-and-wash service, talk with visiting dragons, and tend to personal requests as comfort grows across three endings.",
+      "sections": [
+        {
+          "heading": "What Drag'n Wash Is",
+          "paragraphs": [
+            "A short definition so you know whether this is the game you meant.",
+            "Drag'n Wash (also styled DragN'Wash) is a single-player casual indie simulation. You operate a wash service for dragons: clean them, chat, and respond as trust "
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Quick Facts",
+          "paragraphs": [
+            "Confirmed release basics from Steam app 4739660, SteamDB, and the official itch.io page.",
+            "Use this table when you only need store facts. Deeper how-to pages below cover first washes, route planning, characters, tools, softlock escapes, and the commun"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Start Here",
+          "paragraphs": [
+            "Pick the page that matches what you came to search.",
+            "New players should begin with the beginner guide: first wash flow, progress habits, stuck clean-bar checks, and save discipline. If you already finished one rou"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "How the Gameplay Loop Works",
+          "paragraphs": [
+            "What a typical visit asks you to do, without spoiling late-route beats.",
+            "Each visit centers on washing a dragon thoroughly while conversation and comfort advance. Dirt is not always on the obvious front surfaces: itch comments often "
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Choose What You Need",
+          "paragraphs": [
+            "Match common search intents to the right page."
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Current Release & Support",
+          "paragraphs": [
+            "Where to buy, what platforms are supported, and a recent options update.",
+            "Buy on Steam (app 4739660) or on the official Gator Dragon Games itch.io page. An itch purchase includes a Steam key. Official platforms are Windows, macOS, and"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Adult Content & Site Scope",
+          "paragraphs": [
+            "What this guide covers and what it deliberately omits.",
+            "Drag'n Wash is an adult game. Official marketing describes male dragons, male-on-male dragon content, and male dragon on player content. Comfort growth unlocks "
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Sources",
+          "paragraphs": [
+            "Primary references used for this page. Official store facts and patch notes are separated from itch comment troubleshooting.",
+            "Prefer these pages when a patch changes options, softlock behavior, or mod install steps. Label community comments as player reports until an official note conf"
+          ],
+          "usedSourceIds": []
+        }
+      ],
+      "faq": [
+        "What is Drag'n Wash?",
+        "Where can I buy Drag'n Wash?",
+        "Is the game controller-friendly?",
+        "Does Drag'n Wash have native VR?",
+        "How long is each ending?",
+        "Is this website official or explicit?"
+      ],
+      "usedSourceIds": [
+        "steam-4739660",
+        "itch-official",
+        "community-itch-comments",
+        "github-localization-v0-6-0",
+        "itch-vr-mod"
+      ],
+      "unresolved": []
+    },
+    {
+      "slug": "beginner-guide",
+      "lead": "Start with a careful wash pass, listen for comfort prompts, and keep a clean save before late branches. This Drag'n Wash beginner guide focuses on progress habits that prevent stuck jobs and wasted replays.",
+      "sections": [
+        {
+          "heading": "What You Do in the First Session",
+          "paragraphs": [
+            "The opening hour teaches the same loop you will use for every ending.",
+            "Drag'n Wash puts you in charge of a soap-and-wash service for dragons. Your job is to clean thoroughly, keep conversation going, and respond when comfort unlock"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "First Wash Steps",
+          "paragraphs": [
+            "A practical order of operations for your opening visits."
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Stuck Clean Bar Checklist",
+          "paragraphs": [
+            "When the meter looks done but the job will not complete.",
+            "This is the most common early frustration in itch comments. The UI can read as nearly complete while a tiny missed patch blocks the finish state. Assume you mis"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Comfort, Chat, and Personal Requests",
+          "paragraphs": [
+            "Comfort is the pacing layer on top of cleaning. Washing well keeps the visit moving; chat and attentive responses raise comfort so new requests appear. Official"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Save Tips Before You Chase Endings",
+          "paragraphs": [
+            "Official structure is three endings at roughly ninety minutes each. That is short enough to replay, but long enough that careless overwrites hurt. Keep a “safe "
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Common Beginner Mistakes",
+          "paragraphs": [
+            "Master the flat wash loop before optional community mods. Native VR is not listed on official store pages; if you want a headset later, use the VR mod guide’s o"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Sources",
+          "paragraphs": [
+            "Primary references used for this page. Official store facts and patch notes are separated from itch comment troubleshooting.",
+            "Prefer these pages when a patch changes options, softlock behavior, or mod install steps. Label community comments as player reports until an official note conf"
+          ],
+          "usedSourceIds": []
+        }
+      ],
+      "faq": [
+        "How long is a beginner clear?",
+        "Why won’t my wash job finish?",
+        "Do I need exact trust percentages?",
+        "Should I use a controller?",
+        "When should I read the endings guide?"
+      ],
+      "usedSourceIds": [
+        "steam-4739660",
+        "itch-official",
+        "community-itch-comments",
+        "github-localization-v0-6-0",
+        "itch-vr-mod"
+      ],
+      "unresolved": [
+        "Exact trust thresholds"
+      ]
+    },
+    {
+      "slug": "endings-guide",
+      "lead": "Official materials confirm three endings at about ninety minutes each. This Drag'n Wash endings guide explains how to plan routes and saves with Official versus Community labels kept clear.",
+      "sections": [
+        {
+          "heading": "Quick Answer: Three Endings",
+          "paragraphs": [
+            "What you can rely on before any spoiler detail.",
+            "Official: Drag'n Wash has three endings, and each ending is about ninety minutes. That is the planning backbone for every replay."
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Spoiler Warning",
+          "paragraphs": [
+            "This page discusses ending structure, route focus, and late-game save behavior.",
+            "If you want a completely blind first clear, stop after the Quick Answer and finish one ending on your own. The rest of the page stays free of explicit sexual de"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Endings Route Planning Table",
+          "paragraphs": [
+            "High-level focus only. Official rows are store facts; Community rows are player-oriented planning notes.",
+            "Read the Source label column before you treat a cell as hard rule. Official timing and ending count come from store copy. Route names and softlock patterns come"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Save-Slot Strategy That Reduces Replay Waste",
+          "paragraphs": [
+            "Because each ending is near ninety minutes, one overwritten file can cost an evening. Build a simple slot map before late branches."
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Practical Route Focus",
+          "paragraphs": [
+            "High-level route advice is stable even when dialogue lists are not. Pick the dragon whose presence you want to prioritize, keep their washes thorough, and answe"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "A Practical Replay Plan",
+          "paragraphs": [
+            "This plan respects the official three-ending structure. If a patch changes branch timing, prompt-following and save hygiene still work."
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Official vs Community Labels",
+          "paragraphs": [
+            "Keep labels honest while you plan Drag'n Wash endings. Official means store-page facts: three endings, about ninety minutes each, wash/chat/request loop, adult-"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Sources",
+          "paragraphs": [
+            "Primary references used for this page. Official store facts and patch notes are separated from itch comment troubleshooting.",
+            "Prefer these pages when a patch changes options, softlock behavior, or mod install steps. Label community comments as player reports until an official note conf"
+          ],
+          "usedSourceIds": []
+        }
+      ],
+      "faq": [
+        "How many endings does Drag'n Wash have?",
+        "Can I see every ending in one save?",
+        "Will you list exact ending triggers?",
+        "Which ending should I chase second?",
+        "What softlocks should I watch for while ending hunting?"
+      ],
+      "usedSourceIds": [
+        "steam-4739660",
+        "itch-official",
+        "community-itch-comments",
+        "github-localization-v0-6-0",
+        "itch-vr-mod"
+      ],
+      "unresolved": [
+        "Exact ending trigger lists"
+      ]
+    },
+    {
+      "slug": "characters",
+      "lead": "The dragons you wash are the heart of Drag'n Wash. This overview covers Ryan, Alexander, and Conrad for route focus, with itch-comment and localization naming cross-checks and links into endings planning.",
+      "sections": [
+        {
+          "heading": "How Characters Fit the Game",
+          "paragraphs": [
+            "Official store copy describes a wash service where you clean dragons, chat, and tend to requests as comfort grows. Characters are not loot tables or boss ranks—"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Ryan",
+          "paragraphs": [
+            "Named in itch comments and localization dialogue notes; frequently searched for ending routes.",
+            "Ryan is one of the most searched characters for ending guides. Players often describe the route as lively and expressive in conversation and reaction during was"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Alexander",
+          "paragraphs": [
+            "Named in itch comments and localization dialogue notes; discussed alongside the other primary visitors.",
+            "Alexander appears in the same cast conversations as Ryan and Conrad. Players look him up when they are collecting all three endings or comparing tone across rou"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Conrad",
+          "paragraphs": [
+            "Named in itch comments; later-visit request-order caution is the practical note.",
+            "Conrad shows up often in player discussions of warmer, larger-presence visits. Players who enjoy a steadier route often prioritize him on a second or third clea"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Choosing a Character Focus",
+          "paragraphs": [
+            "Character pages should help you pick a lane, not replace the game’s own prompts. Official design already packages three endings at short-novel length; specializ"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Pre-Route Character Checklist",
+          "paragraphs": [
+            "Use this before locking a second or third clear to one dragon.",
+            "A Drag'n Wash characters overview is most useful right after your discovery clear. You already know how the clean bar and request prompts behave, so preference "
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "SFW Boundaries on Character Pages",
+          "paragraphs": [
+            "Official marketing states adult male dragon content, including male-on-male dragon and male dragon on player material. We acknowledge that so buyers understand "
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Sources",
+          "paragraphs": [
+            "Primary references used for this page. Official store facts and patch notes are separated from itch comment troubleshooting.",
+            "Prefer these pages when a patch changes options, softlock behavior, or mod install steps. Label community comments as player reports until an official note conf"
+          ],
+          "usedSourceIds": []
+        }
+      ],
+      "faq": [
+        "Who are the main Drag'n Wash characters?",
+        "Are long personality bios official?",
+        "Which character has the most ending searches?",
+        "Is Conrad associated with any softlock?",
+        "Will this page spoil endings?"
+      ],
+      "usedSourceIds": [
+        "steam-4739660",
+        "itch-official",
+        "community-itch-comments",
+        "github-localization-v0-6-0",
+        "itch-vr-mod"
+      ],
+      "unresolved": [
+        "Official long-form character bios"
+      ]
+    },
+    {
+      "slug": "controls-and-tools",
+      "lead": "Run the wash loop smoothly on keyboard or controller, use Options comfort toggles, scout missed dirt when the clean bar stalls, and know where Unstick Kobold lives on the pause menu.",
+      "sections": [
+        {
+          "heading": "Controller and Input Support",
+          "paragraphs": [
+            "Steam categories list full controller support for Drag'n Wash. That makes a pad a first-class option on Windows, macOS, and Linux builds distributed through Ste"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Options Worth Checking",
+          "paragraphs": [
+            "Confirmed on the localization release notes for build 9/12/2026_a93aa21a.",
+            "Unstick Kobold on the pause menu is for stuck play states. Itch comments still warn against selecting unstuck kobold during credits, where experimental menu cho"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Wash Tool Loop Habits",
+          "paragraphs": [
+            "Tools exist to support cleaning and comfort, not a deep crafting tree.",
+            "Official framing is soap-and-wash service work: you clean, chat, and tend requests as comfort grows. In practice that means selecting the appropriate wash tools"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Clean Bar Troubleshooting",
+          "paragraphs": [
+            "A full-looking clean bar that will not complete the job is the top mechanical complaint in itch comments. The usual cause is missed dirt rather than a broken me"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Credits Menu and Recovery Cautions",
+          "paragraphs": [
+            "Controls are not only about washing. Community reports say selecting unstuck kobold during credits can softlock. After an ending, prefer known-good menu exits a"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Session Control Checklist",
+          "paragraphs": [
+            "A short pre-visit pass that prevents most input frustration.",
+            "Treat Drag'n Wash controls like hygiene for a ninety-minute ending: fix camera comfort first, then wash discipline, then menu caution after credits. Skipping th"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Sources",
+          "paragraphs": [
+            "Primary references used for this page. Official store facts and patch notes are separated from itch comment troubleshooting.",
+            "Prefer these pages when a patch changes options, softlock behavior, or mod install steps. Label community comments as player reports until an official note conf"
+          ],
+          "usedSourceIds": []
+        }
+      ],
+      "faq": [
+        "Does Drag'n Wash support controllers?",
+        "Where do I invert look or reduce sprayer motion?",
+        "Where is Unstick Kobold?",
+        "What should I do if cleaning tools will not finish the job?",
+        "Are VR controls official?"
+      ],
+      "usedSourceIds": [
+        "steam-4739660",
+        "itch-official",
+        "community-itch-comments",
+        "github-localization-v0-6-0",
+        "itch-vr-mod"
+      ],
+      "unresolved": [
+        "Complete patch-specific keybind table"
+      ]
+    },
+    {
+      "slug": "vr-mod",
+      "lead": "Drag'n Wash does not list native VR on official store pages. A community mod on itch.io adds experimental headset play. This page covers ownership, Easy Install ZIP mindset, Steam launch flags, hotkeys, and safety checks—without hosting binaries.",
+      "sections": [
+        {
+          "heading": "Official Game vs Community VR",
+          "paragraphs": [
+            "The shipping game on Steam and itch is a flat single-player simulation with full controller support listed on Steam. Native VR is not part of the official featu"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Pre-Install Checklist",
+          "paragraphs": [
+            "Do these before touching game folders."
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Launch Flags and Hotkeys",
+          "paragraphs": [
+            "Community setup notes repeatedly mention a Steam launch option of `%command% -force-d3d11`. That flag forces a Direct3D 11 path some Unity VR tooling expects. S"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Safety, Comfort, and SFW Notes",
+          "paragraphs": [
+            "Wash simulations involve close camera work. In VR, start with short sessions, keep recenter handy, and stop if motion comfort drops. Flat Options such as Invert"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "When Not to Use VR Yet",
+          "paragraphs": [
+            "Skip the mod until you can finish washes cleanly in flat mode. Debugging a missed dirt spot is harder when you are also debugging a loader. If you are mid-endin"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "VR Boot Troubleshooting Mindset",
+          "paragraphs": [
+            "When headset play fails, isolate layers instead of reinstalling everything at once.",
+            "A broken Drag'n Wash VR mod boot is usually one of four layers: base game update mismatch, loader install drift, launch-option mismatch, or headset runtime not "
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Sources",
+          "paragraphs": [
+            "Primary references used for this page. Official store facts and patch notes are separated from itch comment troubleshooting.",
+            "Prefer these pages when a patch changes options, softlock behavior, or mod install steps. Label community comments as player reports until an official note conf"
+          ],
+          "usedSourceIds": []
+        }
+      ],
+      "faq": [
+        "Is there official VR for Drag'n Wash?",
+        "Where do I get the VR mod?",
+        "What is the Steam launch option used for?",
+        "How do I recenter in VR?",
+        "The mod crashes—what else can I try?"
+      ],
+      "usedSourceIds": [
+        "steam-4739660",
+        "itch-official",
+        "community-itch-comments",
+        "github-localization-v0-6-0",
+        "itch-vr-mod"
+      ],
+      "unresolved": [
+        "Headset-specific compatibility matrix over time"
+      ]
+    },
+    {
+      "slug": "how-to-escape",
+      "lead": "Use this checklist when Drag'n Wash leaves you stuck in geometry, a clean bar that will not finish, a Conrad request-order softlock, or a bad credits menu choice. Start with pause-menu Unstick Kobold, then escalate to scouting, prompt order, and save reloads.",
+      "sections": [
+        {
+          "heading": "Quick Answer Checklist",
+          "paragraphs": [
+            "Most stuck reports resolve with one of these four paths.",
+            "Work top-down. Do not jump straight to deleting saves if pause-menu recovery or a missed dirt spot can fix the visit."
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Unstick Kobold on the Pause Menu",
+          "paragraphs": [
+            "Localization release notes for the September 2026 game update (build 9/12/2026_a93aa21a) document Unstick Kobold on the pause menu. That is the intended recover"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Clean Bar Full but Job Will Not End",
+          "paragraphs": [
+            "This is not always a softlock. Itch comments repeatedly describe a clean bar that looks complete while leftover dirt remains—especially ink on a tail or spots o"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Conrad Request-Order Softlock",
+          "paragraphs": [
+            "Itch comments warn about a third-day / later Conrad softlock when personal requests are completed out of the prompted order—for example, skipping ahead of the v"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Geometry Stuck and When to Reload",
+          "paragraphs": [
+            "Geometry stuck usually means your avatar or camera is clipped somewhere the wash tools cannot usefully reach. Try Unstick Kobold first. If you remain stuck afte"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Prevention Habits",
+          "paragraphs": [
+            "Most How to Escape Drag'n Wash searches are preventable with three habits: scout tails and necks before blaming the meter, honor personal request order, and nev"
+          ],
+          "usedSourceIds": []
+        },
+        {
+          "heading": "Sources",
+          "paragraphs": [
+            "Primary references used for this page. Official store facts and patch notes are separated from itch comment troubleshooting.",
+            "Prefer these pages when a patch changes options, softlock behavior, or mod install steps. Label community comments as player reports until an official note conf"
+          ],
+          "usedSourceIds": []
+        }
+      ],
+      "faq": [
+        "Where is Unstick Kobold?",
+        "Why is my clean bar full but the job unfinished?",
+        "How do I avoid the Conrad softlock?",
+        "When should I reload instead of unsticking?",
+        "Can continue after an ending get me stuck in credits?"
+      ],
+      "usedSourceIds": [
+        "steam-4739660",
+        "itch-official",
+        "community-itch-comments",
+        "github-localization-v0-6-0",
+        "itch-vr-mod"
+      ],
+      "unresolved": []
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+.tmp/
+.env*
+!.env.example
+.DS_Store
+*.tsbuildinfo
+.playwright-cli/
+.idea/
+.vscode/
+release/
+*.log
+.turbo/

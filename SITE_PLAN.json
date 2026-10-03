@@ -1,0 +1,267 @@
+{
+  "gameName": "Drag'n Wash",
+  "mainKeyword": "Drag'n Wash",
+  "opportunityMode": "breakout_new_game",
+  "siteStrategy": "Independent SFW guide hub: homepage plus six intent pages for beginner progress, endings, characters, controls/tools, community VR mod, and stuck-state escape. No wiki dump page, no codes/drops/rewards. Ryan ending deep-dive removed because exact triggers cannot be multi-source verified.",
+  "singlePageReason": null,
+  "pages": [
+    {
+      "slug": "",
+      "pageType": "home",
+      "primaryKeyword": "Drag'n Wash",
+      "secondaryKeywords": [
+        "Drag'n Wash guide",
+        "Drag'n Wash wiki",
+        "Drag'n Wash endings",
+        "Drag'n Wash characters"
+      ],
+      "searchIntent": "Players looking up Drag'n Wash basics, where to buy it, and which practical guide to open first.",
+      "priority": "P0",
+      "navVisible": true,
+      "parentSlug": null,
+      "relatedSlugs": [
+        "beginner-guide",
+        "endings-guide",
+        "characters",
+        "controls-and-tools",
+        "vr-mod",
+        "how-to-escape"
+      ],
+      "searchEvidence": [
+        "game_name_navigation",
+        "guide_hub_demand"
+      ],
+      "gameEvidence": [
+        "steam_app_4739660",
+        "itch_gatordragongames_dragnwash"
+      ],
+      "reason": "Brand hub answering what the game is, quick facts, and routing to all child intents.",
+      "selected": true,
+      "pageDecision": "Launch",
+      "selectionReason": "p0_hub",
+      "deferred": false,
+      "factSupport": "strong",
+      "evidenceType": "official_plus_community"
+    },
+    {
+      "slug": "beginner-guide",
+      "pageType": "guide",
+      "primaryKeyword": "Drag'n Wash beginner guide",
+      "secondaryKeywords": [
+        "Drag'n Wash tips",
+        "Drag'n Wash first wash",
+        "Drag'n Wash clean bar"
+      ],
+      "searchIntent": "New players who want a practical first-session checklist without explicit spoilers.",
+      "priority": "P0",
+      "navVisible": true,
+      "parentSlug": "",
+      "relatedSlugs": [
+        "controls-and-tools",
+        "how-to-escape",
+        "endings-guide"
+      ],
+      "searchEvidence": [
+        "beginner_guide_intent",
+        "clean_bar_troubleshooting"
+      ],
+      "gameEvidence": [
+        "official_wash_chat_request_loop",
+        "community_clean_bar_reports"
+      ],
+      "reason": "Onboarding and stuck-job checklist for first clears.",
+      "selected": true,
+      "pageDecision": "Launch",
+      "selectionReason": "p0_onboarding",
+      "deferred": false,
+      "factSupport": "strong",
+      "evidenceType": "official_plus_community"
+    },
+    {
+      "slug": "endings-guide",
+      "pageType": "guide",
+      "primaryKeyword": "Drag'n Wash endings",
+      "secondaryKeywords": [
+        "Drag'n Wash endings guide",
+        "Drag'n Wash routes",
+        "Drag'n Wash three endings"
+      ],
+      "searchIntent": "Players who want all three endings with practical save advice and light spoiler control.",
+      "priority": "P0",
+      "navVisible": true,
+      "parentSlug": "",
+      "relatedSlugs": [
+        "characters",
+        "how-to-escape",
+        "beginner-guide"
+      ],
+      "searchEvidence": [
+        "endings_queries",
+        "replay_planning"
+      ],
+      "gameEvidence": [
+        "official_three_endings_90_minutes"
+      ],
+      "reason": "Spoiler-aware route and save strategy without unverified trigger dumps.",
+      "selected": true,
+      "pageDecision": "Launch",
+      "selectionReason": "p0_endings",
+      "deferred": false,
+      "factSupport": "strong",
+      "evidenceType": "official_plus_community"
+    },
+    {
+      "slug": "characters",
+      "pageType": "guide",
+      "primaryKeyword": "Drag'n Wash characters",
+      "secondaryKeywords": [
+        "Drag'n Wash Ryan",
+        "Drag'n Wash Conrad",
+        "Drag'n Wash Alexander"
+      ],
+      "searchIntent": "Players identifying the main dragons and deciding which route to prioritize.",
+      "priority": "P0",
+      "navVisible": true,
+      "parentSlug": "",
+      "relatedSlugs": [
+        "endings-guide",
+        "how-to-escape",
+        "beginner-guide"
+      ],
+      "searchEvidence": [
+        "character_name_queries"
+      ],
+      "gameEvidence": [
+        "community_cast_ryan_alexander_conrad",
+        "localization_dialogue_notes"
+      ],
+      "reason": "SFW cast overview with naming cross-checks and Conrad softlock caution.",
+      "selected": true,
+      "pageDecision": "Launch",
+      "selectionReason": "p0_characters",
+      "deferred": false,
+      "factSupport": "moderate",
+      "evidenceType": "community_cross_checked"
+    },
+    {
+      "slug": "controls-and-tools",
+      "pageType": "guide",
+      "primaryKeyword": "Drag'n Wash controls",
+      "secondaryKeywords": [
+        "Drag'n Wash tools",
+        "Drag'n Wash controller",
+        "Drag'n Wash settings"
+      ],
+      "searchIntent": "Players looking for input, tool, and comfort help while washing.",
+      "priority": "P1",
+      "navVisible": true,
+      "parentSlug": "",
+      "relatedSlugs": [
+        "beginner-guide",
+        "how-to-escape",
+        "vr-mod"
+      ],
+      "searchEvidence": [
+        "controls_queries",
+        "comfort_options"
+      ],
+      "gameEvidence": [
+        "steam_full_controller_support",
+        "patch_invert_y_sprayer_unstick"
+      ],
+      "reason": "Controller/tool loop and documented Options comfort/recovery tools.",
+      "selected": true,
+      "pageDecision": "Launch",
+      "selectionReason": "p1_controls",
+      "deferred": false,
+      "factSupport": "strong",
+      "evidenceType": "official_plus_community"
+    },
+    {
+      "slug": "vr-mod",
+      "pageType": "guide",
+      "primaryKeyword": "Drag'n Wash VR mod",
+      "secondaryKeywords": [
+        "Drag'n Wash VR",
+        "Drag'n Wash UnityVRMod",
+        "Drag'n Wash BepInEx"
+      ],
+      "searchIntent": "Players checking whether VR is official and how to approach the community mod safely.",
+      "priority": "P1",
+      "navVisible": true,
+      "parentSlug": "",
+      "relatedSlugs": [
+        "controls-and-tools",
+        "beginner-guide",
+        "how-to-escape"
+      ],
+      "searchEvidence": [
+        "vr_mod_queries"
+      ],
+      "gameEvidence": [
+        "randomcat4_itch_vr_mod",
+        "no_official_native_vr"
+      ],
+      "reason": "Clarify unofficial VR, ownership, launch flags, and safety.",
+      "selected": true,
+      "pageDecision": "Launch",
+      "selectionReason": "p1_vr",
+      "deferred": false,
+      "factSupport": "strong",
+      "evidenceType": "community_mod_page"
+    },
+    {
+      "slug": "how-to-escape",
+      "pageType": "guide",
+      "primaryKeyword": "How to Escape Drag'n Wash",
+      "secondaryKeywords": [
+        "Drag'n Wash unstick",
+        "Drag'n Wash softlock",
+        "Drag'n Wash clean bar"
+      ],
+      "searchIntent": "Players stuck in geometry, clean-bar finishes, or softlocks who need recovery steps.",
+      "priority": "P0",
+      "navVisible": true,
+      "parentSlug": "",
+      "relatedSlugs": [
+        "beginner-guide",
+        "controls-and-tools",
+        "endings-guide"
+      ],
+      "searchEvidence": [
+        "unstick_softlock_queries",
+        "clean_bar_stuck_queries"
+      ],
+      "gameEvidence": [
+        "patch_unstick_kobold_pause",
+        "itch_comment_softlocks"
+      ],
+      "reason": "Replace unverifiable Ryan ending deep-dive with verifiable stuck-state recovery.",
+      "selected": true,
+      "pageDecision": "Launch",
+      "selectionReason": "p0_escape_recovery",
+      "deferred": false,
+      "factSupport": "strong",
+      "evidenceType": "patch_plus_community"
+    }
+  ],
+  "planningSummary": {
+    "discoveredKeywordCount": 18,
+    "gameSpecificKeywordCount": 18,
+    "intentCount": 7,
+    "launchReadyIntentCount": 7,
+    "suggestedLaunchPages": 7,
+    "deferredCount": 0,
+    "strategyNotes": "Seven-page SFW guide set. Exclude codes/drops/rewards and generic wiki-only page. Replace ryan-ending-guide with how-to-escape. Distinguish official store facts from community softlock/VR notes and patch-documented Options.",
+    "opportunityMode": "breakout_new_game",
+    "totalOpportunities": 7,
+    "launchCount": 7,
+    "mergeCount": 0,
+    "excludeCount": 1,
+    "candidateCount": 7,
+    "excludedCandidates": [
+      "ryan-ending-guide (exact triggers not multi-source verified)"
+    ]
+  },
+  "deferredOpportunities": []
+}

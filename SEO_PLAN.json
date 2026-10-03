@@ -1,0 +1,657 @@
+{
+  "gameName": "Drag'n Wash",
+  "pages": [
+    {
+      "slug": "",
+      "primaryKeyword": "Drag'n Wash",
+      "secondaryKeywords": [
+        "Drag'n Wash guide",
+        "Drag'n Wash wiki",
+        "Drag'n Wash endings",
+        "Drag'n Wash characters"
+      ],
+      "title": "Drag'n Wash Guide: Endings, Characters & VR",
+      "description": "Player hub for Drag'n Wash: beginner wash tips, three endings, Ryan Alexander Conrad, controls, softlock escapes, and community VR mod setup notes.",
+      "h1": "Drag'n Wash Guide",
+      "lead": "Drag'n Wash is an adult-only dragon wash simulation from Gator Dragon Games. You run a soap-and-wash service, talk with visiting dragons, and tend to personal requests as comfort grows across three endings.",
+      "outline": [
+        {
+          "h2": "What Drag'n Wash Is",
+          "contentGoal": "A short definition so you know whether this is the game you meant."
+        },
+        {
+          "h2": "Quick Facts",
+          "contentGoal": "Confirmed release basics from Steam app 4739660, SteamDB, and the official itch.io page."
+        },
+        {
+          "h2": "Start Here",
+          "contentGoal": "Pick the page that matches what you came to search."
+        },
+        {
+          "h2": "How the Gameplay Loop Works",
+          "contentGoal": "What a typical visit asks you to do, without spoiling late-route beats."
+        },
+        {
+          "h2": "Choose What You Need",
+          "contentGoal": "Match common search intents to the right page."
+        },
+        {
+          "h2": "Current Release & Support",
+          "contentGoal": "Where to buy, what platforms are supported, and a recent options update."
+        },
+        {
+          "h2": "Adult Content & Site Scope",
+          "contentGoal": "What this guide covers and what it deliberately omits."
+        },
+        {
+          "h2": "Sources",
+          "contentGoal": "externalLinks to official/community/patch sources."
+        }
+      ],
+      "minWordCount": 1500,
+      "targetWordCount": 1800,
+      "keywordPlacement": {
+        "title": true,
+        "h1": true,
+        "first100Words": true,
+        "coreH2": true
+      },
+      "keywordDensityTarget": {
+        "min": 0.8,
+        "max": 2.0
+      },
+      "internalLinks": [
+        {
+          "targetSlug": "beginner-guide",
+          "purpose": "Primary onboarding CTA"
+        },
+        {
+          "targetSlug": "endings-guide",
+          "purpose": "Secondary endings CTA"
+        },
+        {
+          "targetSlug": "characters",
+          "purpose": "Cast routing"
+        },
+        {
+          "targetSlug": "controls-and-tools",
+          "purpose": "Input routing"
+        },
+        {
+          "targetSlug": "vr-mod",
+          "purpose": "VR routing"
+        },
+        {
+          "targetSlug": "how-to-escape",
+          "purpose": "Softlock escape routing"
+        }
+      ],
+      "anchorTextPlan": [
+        "Beginner wash and progress tips",
+        "Three endings and save-slot strategy",
+        "Ryan, Alexander, and Conrad overview",
+        "Controls, tools, and comfort options",
+        "Community VR mod install checks",
+        "Unstick, softlocks, and escape steps"
+      ],
+      "faq": [
+        "What is Drag'n Wash?",
+        "Where can I buy Drag'n Wash?",
+        "Is the game controller-friendly?",
+        "Does Drag'n Wash have native VR?",
+        "How long is each ending?",
+        "Is this website official or explicit?"
+      ],
+      "sourceRequirements": [
+        "Steam app 4739660 / SteamDB",
+        "Official itch.io page",
+        "Localization v0.6.0 patch notes",
+        "Community VR mod page"
+      ]
+    },
+    {
+      "slug": "beginner-guide",
+      "primaryKeyword": "Drag'n Wash beginner guide",
+      "secondaryKeywords": [
+        "Drag'n Wash tips",
+        "Drag'n Wash first wash",
+        "Drag'n Wash clean bar"
+      ],
+      "title": "Drag'n Wash Beginner Guide: First Wash Tips",
+      "description": "First-session Drag'n Wash tips: full-body wash passes, stuck clean-bar fixes, comfort request order, controller basics, and save habits before endings.",
+      "h1": "Drag'n Wash Beginner Guide",
+      "lead": "Start with a careful wash pass, listen for comfort prompts, and keep a clean save before late branches. This Drag'n Wash beginner guide focuses on progress habits that prevent stuck jobs and wasted replays.",
+      "outline": [
+        {
+          "h2": "What You Do in the First Session",
+          "contentGoal": "The opening hour teaches the same loop you will use for every ending."
+        },
+        {
+          "h2": "First Wash Steps",
+          "contentGoal": "A practical order of operations for your opening visits."
+        },
+        {
+          "h2": "Stuck Clean Bar Checklist",
+          "contentGoal": "When the meter looks done but the job will not complete."
+        },
+        {
+          "h2": "Comfort, Chat, and Personal Requests",
+          "contentGoal": "Comfort is the pacing layer on top of cleaning. Washing well keeps the visit moving; chat and attentive responses raise "
+        },
+        {
+          "h2": "Save Tips Before You Chase Endings",
+          "contentGoal": "Official structure is three endings at roughly ninety minutes each. That is short enough to replay, but long enough that"
+        },
+        {
+          "h2": "Common Beginner Mistakes",
+          "contentGoal": "Master the flat wash loop before optional community mods. Native VR is not listed on official store pages; if you want a"
+        },
+        {
+          "h2": "Sources",
+          "contentGoal": "externalLinks to official/community/patch sources."
+        }
+      ],
+      "minWordCount": 1000,
+      "targetWordCount": 1100,
+      "keywordPlacement": {
+        "title": true,
+        "h1": true,
+        "first100Words": true,
+        "coreH2": true
+      },
+      "keywordDensityTarget": {
+        "min": 0.8,
+        "max": 2.0
+      },
+      "internalLinks": [
+        {
+          "targetSlug": "characters",
+          "purpose": "contextual"
+        },
+        {
+          "targetSlug": "controls-and-tools",
+          "purpose": "contextual"
+        },
+        {
+          "targetSlug": "how-to-escape",
+          "purpose": "contextual"
+        },
+        {
+          "targetSlug": "endings-guide",
+          "purpose": "contextual"
+        }
+      ],
+      "anchorTextPlan": [
+        "characters",
+        "controls-and-tools",
+        "how-to-escape",
+        "endings-guide"
+      ],
+      "faq": [
+        "How long is a beginner clear?",
+        "Why won’t my wash job finish?",
+        "Do I need exact trust percentages?",
+        "Should I use a controller?",
+        "When should I read the endings guide?"
+      ],
+      "sourceRequirements": [
+        "Official Steam/itch loop: wash, chat, tend requests as comfort grows",
+        "Itch comment troubleshooting for clean-bar and softlocks",
+        "Localization v0.6.0 documents Invert Look Y, Sprayer Reduce Motion, Unstick Kobold"
+      ]
+    },
+    {
+      "slug": "endings-guide",
+      "primaryKeyword": "Drag'n Wash endings",
+      "secondaryKeywords": [
+        "Drag'n Wash endings guide",
+        "Drag'n Wash routes",
+        "Drag'n Wash three endings"
+      ],
+      "title": "Drag'n Wash Endings Guide: All 3 Routes",
+      "description": "Plan all three Drag'n Wash endings with route focus, save-slot strategy, Official vs Community notes, and softlock risks labeled clearly for replay.",
+      "h1": "Drag'n Wash Endings Guide",
+      "lead": "Official materials confirm three endings at about ninety minutes each. This Drag'n Wash endings guide explains how to plan routes and saves with Official versus Community labels kept clear.",
+      "outline": [
+        {
+          "h2": "Quick Answer: Three Endings",
+          "contentGoal": "What you can rely on before any spoiler detail."
+        },
+        {
+          "h2": "Spoiler Warning",
+          "contentGoal": "This page discusses ending structure, route focus, and late-game save behavior."
+        },
+        {
+          "h2": "Endings Route Planning Table",
+          "contentGoal": "High-level focus only. Official rows are store facts; Community rows are player-oriented planning notes."
+        },
+        {
+          "h2": "Save-Slot Strategy That Reduces Replay Waste",
+          "contentGoal": "Because each ending is near ninety minutes, one overwritten file can cost an evening. Build a simple slot map before lat"
+        },
+        {
+          "h2": "Practical Route Focus",
+          "contentGoal": "High-level route advice is stable even when dialogue lists are not. Pick the dragon whose presence you want to prioritiz"
+        },
+        {
+          "h2": "A Practical Replay Plan",
+          "contentGoal": "This plan respects the official three-ending structure. If a patch changes branch timing, prompt-following and save hygi"
+        },
+        {
+          "h2": "Official vs Community Labels",
+          "contentGoal": "Keep labels honest while you plan Drag'n Wash endings. Official means store-page facts: three endings, about ninety minu"
+        },
+        {
+          "h2": "Sources",
+          "contentGoal": "externalLinks to official/community/patch sources."
+        }
+      ],
+      "minWordCount": 1100,
+      "targetWordCount": 1200,
+      "keywordPlacement": {
+        "title": true,
+        "h1": true,
+        "first100Words": true,
+        "coreH2": true
+      },
+      "keywordDensityTarget": {
+        "min": 0.8,
+        "max": 2.0
+      },
+      "internalLinks": [
+        {
+          "targetSlug": "characters",
+          "purpose": "contextual"
+        },
+        {
+          "targetSlug": "how-to-escape",
+          "purpose": "contextual"
+        },
+        {
+          "targetSlug": "beginner-guide",
+          "purpose": "contextual"
+        }
+      ],
+      "anchorTextPlan": [
+        "characters",
+        "how-to-escape",
+        "beginner-guide"
+      ],
+      "faq": [
+        "How many endings does Drag'n Wash have?",
+        "Can I see every ending in one save?",
+        "Will you list exact ending triggers?",
+        "Which ending should I chase second?",
+        "What softlocks should I watch for while ending hunting?"
+      ],
+      "sourceRequirements": [
+        "Official + community sources listed on page"
+      ]
+    },
+    {
+      "slug": "characters",
+      "primaryKeyword": "Drag'n Wash characters",
+      "secondaryKeywords": [
+        "Drag'n Wash Ryan",
+        "Drag'n Wash Conrad",
+        "Drag'n Wash Alexander"
+      ],
+      "title": "Drag'n Wash Characters: Ryan, Alexander & Conrad",
+      "description": "Meet Ryan, Alexander, and Conrad in Drag'n Wash: visit roles, comfort-route tips, Conrad request-order caution, and links into endings planning.",
+      "h1": "Drag'n Wash Characters",
+      "lead": "The dragons you wash are the heart of Drag'n Wash. This overview covers Ryan, Alexander, and Conrad for route focus, with itch-comment and localization naming cross-checks and links into endings planning.",
+      "outline": [
+        {
+          "h2": "How Characters Fit the Game",
+          "contentGoal": "Official store copy describes a wash service where you clean dragons, chat, and tend to requests as comfort grows. Chara"
+        },
+        {
+          "h2": "Ryan",
+          "contentGoal": "Named in itch comments and localization dialogue notes; frequently searched for ending routes."
+        },
+        {
+          "h2": "Alexander",
+          "contentGoal": "Named in itch comments and localization dialogue notes; discussed alongside the other primary visitors."
+        },
+        {
+          "h2": "Conrad",
+          "contentGoal": "Named in itch comments; later-visit request-order caution is the practical note."
+        },
+        {
+          "h2": "Choosing a Character Focus",
+          "contentGoal": "Character pages should help you pick a lane, not replace the game’s own prompts. Official design already packages three "
+        },
+        {
+          "h2": "Pre-Route Character Checklist",
+          "contentGoal": "Use this before locking a second or third clear to one dragon."
+        },
+        {
+          "h2": "SFW Boundaries on Character Pages",
+          "contentGoal": "Official marketing states adult male dragon content, including male-on-male dragon and male dragon on player material. W"
+        },
+        {
+          "h2": "Sources",
+          "contentGoal": "externalLinks to official/community/patch sources."
+        }
+      ],
+      "minWordCount": 1000,
+      "targetWordCount": 1100,
+      "keywordPlacement": {
+        "title": true,
+        "h1": true,
+        "first100Words": true,
+        "coreH2": true
+      },
+      "keywordDensityTarget": {
+        "min": 0.8,
+        "max": 2.0
+      },
+      "internalLinks": [
+        {
+          "targetSlug": "endings-guide",
+          "purpose": "contextual"
+        },
+        {
+          "targetSlug": "beginner-guide",
+          "purpose": "contextual"
+        },
+        {
+          "targetSlug": "how-to-escape",
+          "purpose": "contextual"
+        }
+      ],
+      "anchorTextPlan": [
+        "endings-guide",
+        "beginner-guide",
+        "how-to-escape"
+      ],
+      "faq": [
+        "Who are the main Drag'n Wash characters?",
+        "Are long personality bios official?",
+        "Which character has the most ending searches?",
+        "Is Conrad associated with any softlock?",
+        "Will this page spoil endings?"
+      ],
+      "sourceRequirements": [
+        "Official + community sources listed on page"
+      ]
+    },
+    {
+      "slug": "controls-and-tools",
+      "primaryKeyword": "Drag'n Wash controls",
+      "secondaryKeywords": [
+        "Drag'n Wash tools",
+        "Drag'n Wash controller",
+        "Drag'n Wash settings"
+      ],
+      "title": "Drag'n Wash Controls & Tools Guide",
+      "description": "Drag'n Wash controls and tools: full controller support, Invert Look Y, Sprayer Reduce Motion, wash-pass habits, and Unstick Kobold pause tips.",
+      "h1": "Drag'n Wash Controls and Tools",
+      "lead": "Run the wash loop smoothly on keyboard or controller, use Options comfort toggles, scout missed dirt when the clean bar stalls, and know where Unstick Kobold lives on the pause menu.",
+      "outline": [
+        {
+          "h2": "Controller and Input Support",
+          "contentGoal": "Steam categories list full controller support for Drag'n Wash. That makes a pad a first-class option on Windows, macOS, "
+        },
+        {
+          "h2": "Options Worth Checking",
+          "contentGoal": "Confirmed on the localization release notes for build 9/12/2026_a93aa21a."
+        },
+        {
+          "h2": "Wash Tool Loop Habits",
+          "contentGoal": "Tools exist to support cleaning and comfort, not a deep crafting tree."
+        },
+        {
+          "h2": "Clean Bar Troubleshooting",
+          "contentGoal": "A full-looking clean bar that will not complete the job is the top mechanical complaint in itch comments. The usual caus"
+        },
+        {
+          "h2": "Credits Menu and Recovery Cautions",
+          "contentGoal": "Controls are not only about washing. Community reports say selecting unstuck kobold during credits can softlock. After a"
+        },
+        {
+          "h2": "Session Control Checklist",
+          "contentGoal": "A short pre-visit pass that prevents most input frustration."
+        },
+        {
+          "h2": "Sources",
+          "contentGoal": "externalLinks to official/community/patch sources."
+        }
+      ],
+      "minWordCount": 1000,
+      "targetWordCount": 1100,
+      "keywordPlacement": {
+        "title": true,
+        "h1": true,
+        "first100Words": true,
+        "coreH2": true
+      },
+      "keywordDensityTarget": {
+        "min": 0.8,
+        "max": 2.0
+      },
+      "internalLinks": [
+        {
+          "targetSlug": "beginner-guide",
+          "purpose": "contextual"
+        },
+        {
+          "targetSlug": "how-to-escape",
+          "purpose": "contextual"
+        },
+        {
+          "targetSlug": "characters",
+          "purpose": "contextual"
+        },
+        {
+          "targetSlug": "endings-guide",
+          "purpose": "contextual"
+        },
+        {
+          "targetSlug": "vr-mod",
+          "purpose": "contextual"
+        }
+      ],
+      "anchorTextPlan": [
+        "beginner-guide",
+        "how-to-escape",
+        "characters",
+        "endings-guide",
+        "vr-mod"
+      ],
+      "faq": [
+        "Does Drag'n Wash support controllers?",
+        "Where do I invert look or reduce sprayer motion?",
+        "Where is Unstick Kobold?",
+        "What should I do if cleaning tools will not finish the job?",
+        "Are VR controls official?"
+      ],
+      "sourceRequirements": [
+        "Official + community sources listed on page"
+      ]
+    },
+    {
+      "slug": "vr-mod",
+      "primaryKeyword": "Drag'n Wash VR mod",
+      "secondaryKeywords": [
+        "Drag'n Wash VR",
+        "Drag'n Wash UnityVRMod",
+        "Drag'n Wash BepInEx"
+      ],
+      "title": "Drag'n Wash VR Mod Guide: Setup & Safety",
+      "description": "Set up the community Drag'n Wash VR mod safely: own the game, Easy Install ZIP, -force-d3d11, F10/F11, crash tip, and flat-play-first advice.",
+      "h1": "Drag'n Wash VR Mod",
+      "lead": "Drag'n Wash does not list native VR on official store pages. A community mod on itch.io adds experimental headset play. This page covers ownership, Easy Install ZIP mindset, Steam launch flags, hotkeys, and safety checks—without hosting binaries.",
+      "outline": [
+        {
+          "h2": "Official Game vs Community VR",
+          "contentGoal": "The shipping game on Steam and itch is a flat single-player simulation with full controller support listed on Steam. Nat"
+        },
+        {
+          "h2": "Pre-Install Checklist",
+          "contentGoal": "Do these before touching game folders."
+        },
+        {
+          "h2": "Launch Flags and Hotkeys",
+          "contentGoal": "Community setup notes repeatedly mention a Steam launch option of `%command% -force-d3d11`. That flag forces a Direct3D "
+        },
+        {
+          "h2": "Safety, Comfort, and SFW Notes",
+          "contentGoal": "Wash simulations involve close camera work. In VR, start with short sessions, keep recenter handy, and stop if motion co"
+        },
+        {
+          "h2": "When Not to Use VR Yet",
+          "contentGoal": "Skip the mod until you can finish washes cleanly in flat mode. Debugging a missed dirt spot is harder when you are also "
+        },
+        {
+          "h2": "VR Boot Troubleshooting Mindset",
+          "contentGoal": "When headset play fails, isolate layers instead of reinstalling everything at once."
+        },
+        {
+          "h2": "Sources",
+          "contentGoal": "externalLinks to official/community/patch sources."
+        }
+      ],
+      "minWordCount": 1000,
+      "targetWordCount": 1100,
+      "keywordPlacement": {
+        "title": true,
+        "h1": true,
+        "first100Words": true,
+        "coreH2": true
+      },
+      "keywordDensityTarget": {
+        "min": 0.8,
+        "max": 2.0
+      },
+      "internalLinks": [
+        {
+          "targetSlug": "controls-and-tools",
+          "purpose": "contextual"
+        },
+        {
+          "targetSlug": "beginner-guide",
+          "purpose": "contextual"
+        },
+        {
+          "targetSlug": "endings-guide",
+          "purpose": "contextual"
+        },
+        {
+          "targetSlug": "how-to-escape",
+          "purpose": "contextual"
+        }
+      ],
+      "anchorTextPlan": [
+        "controls-and-tools",
+        "beginner-guide",
+        "endings-guide",
+        "how-to-escape"
+      ],
+      "faq": [
+        "Is there official VR for Drag'n Wash?",
+        "Where do I get the VR mod?",
+        "What is the Steam launch option used for?",
+        "How do I recenter in VR?",
+        "The mod crashes—what else can I try?"
+      ],
+      "sourceRequirements": [
+        "Official + community sources listed on page"
+      ]
+    },
+    {
+      "slug": "how-to-escape",
+      "primaryKeyword": "How to Escape Drag'n Wash",
+      "secondaryKeywords": [
+        "Drag'n Wash unstick",
+        "Drag'n Wash softlock",
+        "Drag'n Wash clean bar"
+      ],
+      "title": "How to Escape Drag'n Wash: Unstick & Softlocks",
+      "description": "Escape stuck states in Drag'n Wash: Unstick Kobold, clean-bar leftovers, Conrad request-order softlocks, geometry traps, and when to reload a save.",
+      "h1": "How to Escape Drag'n Wash",
+      "lead": "Use this checklist when Drag'n Wash leaves you stuck in geometry, a clean bar that will not finish, a Conrad request-order softlock, or a bad credits menu choice. Start with pause-menu Unstick Kobold, then escalate to scouting, prompt order, and save reloads.",
+      "outline": [
+        {
+          "h2": "Quick Answer Checklist",
+          "contentGoal": "Most stuck reports resolve with one of these four paths."
+        },
+        {
+          "h2": "Unstick Kobold on the Pause Menu",
+          "contentGoal": "Localization release notes for the September 2026 game update (build 9/12/2026_a93aa21a) document Unstick Kobold on the "
+        },
+        {
+          "h2": "Clean Bar Full but Job Will Not End",
+          "contentGoal": "This is not always a softlock. Itch comments repeatedly describe a clean bar that looks complete while leftover dirt rem"
+        },
+        {
+          "h2": "Conrad Request-Order Softlock",
+          "contentGoal": "Itch comments warn about a third-day / later Conrad softlock when personal requests are completed out of the prompted or"
+        },
+        {
+          "h2": "Geometry Stuck and When to Reload",
+          "contentGoal": "Geometry stuck usually means your avatar or camera is clipped somewhere the wash tools cannot usefully reach. Try Unstic"
+        },
+        {
+          "h2": "Prevention Habits",
+          "contentGoal": "Most How to Escape Drag'n Wash searches are preventable with three habits: scout tails and necks before blaming the mete"
+        },
+        {
+          "h2": "Sources",
+          "contentGoal": "externalLinks to official/community/patch sources."
+        }
+      ],
+      "minWordCount": 900,
+      "targetWordCount": 1000,
+      "keywordPlacement": {
+        "title": true,
+        "h1": true,
+        "first100Words": true,
+        "coreH2": true
+      },
+      "keywordDensityTarget": {
+        "min": 0.8,
+        "max": 2.0
+      },
+      "internalLinks": [
+        {
+          "targetSlug": "controls-and-tools",
+          "purpose": "contextual"
+        },
+        {
+          "targetSlug": "beginner-guide",
+          "purpose": "contextual"
+        },
+        {
+          "targetSlug": "characters",
+          "purpose": "contextual"
+        },
+        {
+          "targetSlug": "endings-guide",
+          "purpose": "contextual"
+        },
+        {
+          "targetSlug": "vr-mod",
+          "purpose": "contextual"
+        }
+      ],
+      "anchorTextPlan": [
+        "controls-and-tools",
+        "beginner-guide",
+        "characters",
+        "endings-guide",
+        "vr-mod"
+      ],
+      "faq": [
+        "Where is Unstick Kobold?",
+        "Why is my clean bar full but the job unfinished?",
+        "How do I avoid the Conrad softlock?",
+        "When should I reload instead of unsticking?",
+        "Can continue after an ending get me stuck in credits?"
+      ],
+      "sourceRequirements": [
+        "Official + community sources listed on page"
+      ]
+    }
+  ]
+}

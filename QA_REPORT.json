@@ -1,0 +1,214 @@
+{
+  "passed": true,
+  "reviewedAt": "2026-09-19",
+  "readyForLaunch": true,
+  "node": {
+    "verified": [
+      "v22.14.0"
+    ],
+    "localAlso": "v23.x compatible"
+  },
+  "next": "16.3.2 (pinned)",
+  "errors": [],
+  "warnings": [
+    "Character-name density on Ryan/Conrad/Alexander sits ~4% on short pages (soft max 5); readable unique content prioritized over stuffing."
+  ],
+  "checks": {
+    "schemaValidation": "passed (validate-config + build:site + SEO audit + qa:artifact/freeze/expansion on 2026-09-19)",
+    "pageSet": {
+      "expected": [
+        "home",
+        "beginner-guide",
+        "endings-guide",
+        "characters",
+        "controls-and-tools",
+        "vr-mod",
+        "how-to-escape",
+        "gameplay",
+        "mods",
+        "characters/ryan",
+        "characters/conrad",
+        "characters/alexander"
+      ],
+      "expansion": [
+        "gameplay",
+        "mods",
+        "characters/ryan",
+        "characters/conrad",
+        "characters/alexander"
+      ],
+      "freeze": [
+        "",
+        "beginner-guide",
+        "endings-guide",
+        "characters",
+        "controls-and-tools",
+        "vr-mod",
+        "how-to-escape"
+      ],
+      "excluded": [
+        "wiki",
+        "codes",
+        "drops",
+        "rewards",
+        "ryan-ending-guide"
+      ],
+      "passed": true
+    },
+    "wordCounts": {
+      "home": {
+        "words": 1733,
+        "min": 900,
+        "passed": true
+      },
+      "beginner-guide": {
+        "words": 1136,
+        "min": 900,
+        "passed": true
+      },
+      "endings-guide": {
+        "words": 1126,
+        "min": 900,
+        "passed": true
+      },
+      "characters": {
+        "words": 1029,
+        "min": 900,
+        "passed": true
+      },
+      "controls-and-tools": {
+        "words": 1078,
+        "min": 900,
+        "passed": true
+      },
+      "vr-mod": {
+        "words": 1153,
+        "min": 900,
+        "passed": true
+      },
+      "how-to-escape": {
+        "words": 1214,
+        "min": 900,
+        "passed": true
+      },
+      "gameplay": {
+        "words": 723,
+        "min": 700,
+        "passed": true
+      },
+      "mods": {
+        "words": 717,
+        "min": 700,
+        "passed": true
+      },
+      "characters/ryan": {
+        "words": 657,
+        "min": 500,
+        "passed": true
+      },
+      "characters/conrad": {
+        "words": 651,
+        "min": 500,
+        "passed": true
+      },
+      "characters/alexander": {
+        "words": 648,
+        "min": 500,
+        "passed": true
+      }
+    },
+    "expansionPages": [
+      {
+        "slug": "gameplay",
+        "title": "Drag'n Wash Gameplay & Full Playthrough Guide",
+        "description": "Explore Drag'n Wash gameplay, its cleaning loop, progression and full playthrough flow, with spoiler-aware tips and links to detailed guides for first runs.",
+        "h1": "Drag'n Wash Gameplay and Playthrough Guide",
+        "canonical": "https://dragnwash.github.io/gameplay/",
+        "words": 723,
+        "density": 0.83
+      },
+      {
+        "slug": "mods",
+        "title": "Drag'n Wash Mods Guide — Types, Setup & Safety",
+        "description": "A practical Drag'n Wash mods guide covering mod types, safe setup checks, compatibility, troubleshooting, and the separate community VR mod guide.",
+        "h1": "Drag'n Wash Mods Guide",
+        "canonical": "https://dragnwash.github.io/mods/",
+        "words": 717,
+        "density": 0.84
+      },
+      {
+        "slug": "characters/ryan",
+        "title": "Ryan in Drag'n Wash — Character & Route Guide",
+        "description": "Learn about Ryan in Drag'n Wash, including the character's role, visit tone, route context, and links to endings guidance without full spoiler steps.",
+        "h1": "Ryan in Drag'n Wash",
+        "canonical": "https://dragnwash.github.io/characters/ryan/",
+        "words": 657,
+        "density": 4.72
+      },
+      {
+        "slug": "characters/conrad",
+        "title": "Conrad in Drag'n Wash — Character & Route Guide",
+        "description": "A focused guide to Conrad in Drag'n Wash, covering the character's role, request-order caution, route context, and related ending information.",
+        "h1": "Conrad in Drag'n Wash",
+        "canonical": "https://dragnwash.github.io/characters/conrad/",
+        "words": 651,
+        "density": 4.61
+      },
+      {
+        "slug": "characters/alexander",
+        "title": "Alexander in Drag'n Wash — Character & Route Guide",
+        "description": "Explore Alexander's role in Drag'n Wash, key interactions, route context, and the relevant ending guidance without unnecessary spoilers or copied walkthroughs.",
+        "h1": "Alexander in Drag'n Wash",
+        "canonical": "https://dragnwash.github.io/characters/alexander/",
+        "words": 648,
+        "density": 4.17
+      }
+    ],
+    "freezeCompare": "passed via scripts/qa-freeze.mjs against scripts/fixtures/freeze-baseline.json",
+    "artifactIntegrity": "passed via postbuild assert + qa:artifact (HTML/sitemap/robots/_next present)",
+    "metadata": {
+      "titleMax": 60,
+      "descriptionRange": [
+        120,
+        170
+      ],
+      "passed": true
+    },
+    "navigation": {
+      "desktop": [
+        "Beginner",
+        "Gameplay",
+        "Endings",
+        "Characters dropdown",
+        "Controls",
+        "Mods",
+        "VR Mod",
+        "Escape"
+      ],
+      "charactersDropdown": [
+        "All Characters",
+        "Ryan",
+        "Conrad",
+        "Alexander"
+      ],
+      "footerGroups": [
+        "Guides",
+        "Characters",
+        "Site"
+      ],
+      "passed": true
+    },
+    "ads": {
+      "responsiveBanner": true,
+      "nativeSlot": true,
+      "socialBarOnce": true,
+      "idsUnchanged": true,
+      "passed": true
+    },
+    "sitemapRobots": {
+      "sitemapIncludesExpansion": true,
+      "robotsAllowAll": true,
+      "passed": true
+    }
+  }
+}

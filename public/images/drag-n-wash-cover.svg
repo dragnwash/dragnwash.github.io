@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Abstract Drag'n Wash guide cover art">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="hsl(253 33% 5%)"/>
+      <stop offset="100%" stop-color="hsl(260 29% 10%)"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="hsl(258 90% 66%)" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="hsl(280 70% 55%)" stop-opacity="0.12"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1280" cy="160" r="240" fill="hsl(258 90% 66%)" fill-opacity="0.16"/>
+  <circle cx="220" cy="740" r="280" fill="hsl(280 70% 55%)" fill-opacity="0.10"/>
+  <path d="M180 560 C420 420, 760 680, 980 470 C1100 360, 1240 390, 1380 300" fill="none" stroke="url(#glow)" stroke-width="28" stroke-linecap="round"/>
+  <rect x="120" y="210" width="920" height="430" rx="36" fill="hsl(260 29% 10%)" fill-opacity="0.94"/>
+  <text x="170" y="330" font-family="ui-sans-serif, system-ui, sans-serif" font-size="64" font-weight="700" fill="hsl(253 30% 96%)">Drag'n Wash</text>
+  <text x="170" y="410" font-family="ui-sans-serif, system-ui, sans-serif" font-size="32" fill="hsl(253 20% 72%)">Independent SFW player guides</text>
+  <text x="170" y="490" font-family="ui-sans-serif, system-ui, sans-serif" font-size="26" fill="hsl(258 90% 66%)">Abstract brand art · not an official screenshot</text>
+</svg>

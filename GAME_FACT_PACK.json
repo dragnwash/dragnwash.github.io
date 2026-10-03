@@ -1,0 +1,221 @@
+{
+  "gameName": "Drag'n Wash",
+  "platform": "Steam, itch.io (Windows, macOS, Linux)",
+  "summary": "Adult-only single-player simulation from Gator Dragon Games where you run a soap-and-wash service for dragons, chat, and tend to personal requests as comfort grows. Official materials list about 90 minutes per ending with three endings. Available on Steam (app 4739660) and itch.io; itch purchase includes a Steam key.",
+  "coreMechanics": [
+    "Wash dragons thoroughly using soap/wash tools",
+    "Chat during visits",
+    "Tend to personal requests as comfort grows",
+    "Single-player simulation pacing",
+    "Three endings at approximately 90 minutes each",
+    "Full controller support (Steam categories)"
+  ],
+  "entities": [
+    {
+      "name": "Ryan",
+      "type": "character",
+      "status": "community-and-localization-notes",
+      "notes": "Named in itch comments and in TomXV localization dialogue notes; frequently discussed as a primary visitor/route focus."
+    },
+    {
+      "name": "Alexander",
+      "type": "character",
+      "status": "community-and-localization-notes",
+      "notes": "Named in itch comments and in TomXV localization dialogue notes; discussed alongside Ryan and Conrad."
+    },
+    {
+      "name": "Conrad",
+      "type": "character",
+      "status": "community-reported",
+      "notes": "Named in itch comments; later-visit softlock reports if personal requests completed out of prompted order."
+    },
+    {
+      "name": "Gator Dragon Games",
+      "type": "developer",
+      "status": "official",
+      "notes": "Developer/publisher. Itch credits also list GatorDragonGames, Hopfel, Jigglebonez, RalivDev, naelstrof, Ahze."
+    }
+  ],
+  "facts": [
+    {
+      "id": "title",
+      "statement": "Title is Drag'n Wash (also styled DragN'Wash).",
+      "confidence": "official",
+      "sourceIds": ["steam-4739660", "itch-official"]
+    },
+    {
+      "id": "developer",
+      "statement": "Developer/publisher is Gator Dragon Games.",
+      "confidence": "official",
+      "sourceIds": ["steam-4739660", "itch-official"]
+    },
+    {
+      "id": "release-date",
+      "statement": "Steam release date is September 10, 2026.",
+      "confidence": "official",
+      "sourceIds": ["steam-4739660", "steamdb-4739660"]
+    },
+    {
+      "id": "platforms",
+      "statement": "Platforms are Windows, macOS, and Linux.",
+      "confidence": "official",
+      "sourceIds": ["steam-4739660", "itch-official"]
+    },
+    {
+      "id": "storefronts",
+      "statement": "Sold on Steam and itch.io; itch purchase includes a Steam key.",
+      "confidence": "official",
+      "sourceIds": ["itch-official", "steam-4739660"]
+    },
+    {
+      "id": "itch-price",
+      "statement": "itch minimum price is around $15 USD.",
+      "confidence": "official",
+      "sourceIds": ["itch-official"]
+    },
+    {
+      "id": "genre",
+      "statement": "Genre is Simulation; Steam also lists Casual and Indie.",
+      "confidence": "official",
+      "sourceIds": ["steam-4739660", "itch-official"]
+    },
+    {
+      "id": "adult-only",
+      "statement": "Adult-only / NSFW content including male dragons, male-on-male dragons, and male dragon on player content.",
+      "confidence": "official",
+      "sourceIds": ["steam-4739660", "itch-official"]
+    },
+    {
+      "id": "loop",
+      "statement": "Official description: soap-and-wash service for dragons; wash, chat, tend to requests as comfort grows.",
+      "confidence": "official",
+      "sourceIds": ["steam-4739660", "itch-official"]
+    },
+    {
+      "id": "endings",
+      "statement": "Approximately 90 minutes per ending, with three endings.",
+      "confidence": "official",
+      "sourceIds": ["steam-4739660", "itch-official"]
+    },
+    {
+      "id": "controller",
+      "statement": "Full controller support is listed in Steam/store categories.",
+      "confidence": "official",
+      "sourceIds": ["steam-4739660", "steamdb-4739660"]
+    },
+    {
+      "id": "single-player",
+      "statement": "Single-player.",
+      "confidence": "official",
+      "sourceIds": ["steam-4739660"]
+    },
+    {
+      "id": "no-native-vr",
+      "statement": "Native VR is not listed on official Steam or itch store pages.",
+      "confidence": "official",
+      "sourceIds": ["steam-4739660", "itch-official"]
+    },
+    {
+      "id": "vr-mod",
+      "statement": "Community VR mod at randomcat4 itch: BepInEx 6 beta + UnityVRMod, in development, requires owning the game; Easy install ZIP; Steam launch option %command% -force-d3d11; F10 recenter; F11 toggle VR; crash tip -force-gfx-direct.",
+      "confidence": "community-mod",
+      "sourceIds": ["itch-vr-mod"]
+    },
+    {
+      "id": "patch-kobold-hotfix-options",
+      "statement": "Official Steam news Kobold Hotfix (2026-09-13) adds Invert Y mouse options in Options, a reduce motion sickness option for the sprayer, and an Unstick Kobold button in the game menu. Localization v0.6.0 remains a secondary wording cross-check only.",
+      "confidence": "official",
+      "sourceIds": ["steam-news-kobold-hotfix", "github-localization-v0-6-0"]
+    },
+    {
+      "id": "clean-bar-stuck",
+      "statement": "Community (itch comments): clean bar can look full while job will not finish due to missed dirt (e.g. ink on tail / back of neck); restart job and recheck hard-to-see spots.",
+      "confidence": "community-reported",
+      "sourceIds": ["community-itch-comments"]
+    },
+    {
+      "id": "softlock-credits",
+      "statement": "Community (itch comments): selecting unstuck kobold during credits can softlock; Kobold Hotfix added Unstick Kobold to the game/pause menu for stuck play, but credits misuse is still warned by players.",
+      "confidence": "community-reported",
+      "sourceIds": ["community-itch-comments", "steam-news-kobold-hotfix"]
+    },
+    {
+      "id": "softlock-conrad",
+      "statement": "Official Kobold Hotfix addresses a Conrad softlock for a known level-8 request-order case. Community itch comments still advise completing personal requests in the prompted order and not skipping ahead of the visit's request.",
+      "confidence": "official-and-community",
+      "sourceIds": ["steam-news-kobold-hotfix", "community-itch-comments"]
+    },
+    {
+      "id": "credits-continue",
+      "statement": "Community (itch comments): save/continue after finishing a slot can dump to credits; use separate saves for routes.",
+      "confidence": "community-reported",
+      "sourceIds": ["community-itch-comments"]
+    },
+    {
+      "id": "steam-deck-verified",
+      "statement": "Official Steam news (2026-09-15): Drag'n Wash is Steam Deck Verified, with emphasis on the native Linux build.",
+      "confidence": "official",
+      "sourceIds": ["steam-news-deck-verified"]
+    },
+    {
+      "id": "linux-build",
+      "statement": "A native Linux build exists on official storefronts and is part of the Steam Deck Verified effort.",
+      "confidence": "official",
+      "sourceIds": ["steam-4739660", "itch-official", "steam-news-deck-verified"]
+    },
+    {
+      "id": "steam-deck-touchscreen-spin-fix",
+      "statement": "Kobold Hotfix fixed a Steam Deck issue that could make players spin forever when using the touchscreen.",
+      "confidence": "official",
+      "sourceIds": ["steam-news-kobold-hotfix"]
+    }
+  ],
+  "unknowns": [
+    "Exact ending trigger conditions / dialogue trees",
+    "Official trust percentage tables or job-count thresholds",
+    "Complete official keybind table per platform patch",
+    "Full official character bios beyond store adult framing and named dialogue notes"
+  ],
+  "sources": [
+    {
+      "id": "steam-4739660",
+      "url": "https://store.steampowered.com/app/4739660/Dragn_Wash/",
+      "label": "Steam store page"
+    },
+    {
+      "id": "steamdb-4739660",
+      "url": "https://steamdb.info/app/4739660/",
+      "label": "SteamDB app page"
+    },
+    {
+      "id": "itch-official",
+      "url": "https://gatordragongames.itch.io/dragnwash",
+      "label": "Official itch.io page"
+    },
+    {
+      "id": "community-itch-comments",
+      "url": "https://gatordragongames.itch.io/dragnwash",
+      "label": "Official itch.io page comments"
+    },
+    {
+      "id": "itch-vr-mod",
+      "url": "https://randomcat4.itch.io/dragn-wash-vr-mod",
+      "label": "Community VR mod itch page"
+    },
+    {
+      "id": "steam-news-kobold-hotfix",
+      "url": "https://store.steampowered.com/news/app/4739660/1843481262700350",
+      "label": "Steam news: Kobold Hotfix (2026-09-13)"
+    },
+    {
+      "id": "steam-news-deck-verified",
+      "url": "https://store.steampowered.com/news/app/4739660/1843481262703308",
+      "label": "Steam news: Steam Deck Verified! (2026-09-15)"
+    },
+    {
+      "id": "github-localization-v0-6-0",
+      "url": "https://github.com/TomXV/dragnwash-localization/releases/tag/v0.6.0",
+      "label": "Localization release notes (secondary Options / Unstick cross-check)"
+    }
+  ]
+}

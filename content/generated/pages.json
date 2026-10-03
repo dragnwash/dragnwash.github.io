@@ -1,0 +1,1559 @@
+[
+  {
+    "enabled": true,
+    "slug": "beginner-guide",
+    "pageType": "guide",
+    "navLabel": "Beginner",
+    "title": "Drag'n Wash Beginner Guide: First Wash Tips",
+    "description": "First-session Drag'n Wash tips: full-body wash passes, stuck clean-bar fixes, comfort request order, controller basics, and save habits before endings.",
+    "keywords": [
+      "Drag'n Wash beginner guide",
+      "Drag'n Wash guide",
+      "Drag'n Wash tips",
+      "Drag'n Wash clean bar"
+    ],
+    "primaryKeyword": "Drag'n Wash beginner guide",
+    "secondaryKeywords": [
+      "Drag'n Wash tips",
+      "Drag'n Wash first wash",
+      "Drag'n Wash clean bar"
+    ],
+    "searchIntent": "New players who want a practical first-session checklist without explicit spoilers.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 1100,
+    "factsStatus": "verified",
+    "sourceNotes": [
+      "Official Steam/itch loop: wash, chat, tend requests as comfort grows",
+      "Itch comment troubleshooting for clean-bar and softlocks",
+      "Official Kobold Hotfix Steam news documents Invert Look Y, Sprayer Reduce Motion, Unstick Kobold"
+    ],
+    "hero": {
+      "eyebrow": "First session",
+      "heading": "Drag'n Wash Beginner Guide",
+      "lead": "Start with a careful wash pass, listen for comfort prompts, and keep a clean save before late branches. This Drag'n Wash beginner guide focuses on progress habits that prevent stuck jobs and wasted replays."
+    },
+    "sections": [
+      {
+        "id": "what-you-do-first",
+        "heading": "What You Do in the First Session",
+        "intro": "The opening hour teaches the same loop you will use for every ending.",
+        "paragraphs": [
+          "Drag'n Wash puts you in charge of a soap-and-wash service for dragons. Your job is to clean thoroughly, keep conversation going, and respond when comfort unlocks personal requests. Official materials describe a simulation pace rather than combat or inventory crafting, so attention and camera angles matter more than memorized hotkey charts.",
+          "Expect a single-player session measured in tens of minutes, not multi-day grinds. Official copy places each ending near ninety minutes. That means early mistakes—missed dirt, ignored prompts, or overwriting the only save—are expensive. Treat your first clear as practice for route planning later.",
+          "The game is adult-only. Comfort growth can unlock mature romance and personal scenes. This page explains how to progress those systems at a high level without explicit detail. If a prompt feels out of order, pause and finish the wash or request the visit is currently highlighting."
+        ],
+        "links": [
+          {
+            "label": "Skim character personalities next",
+            "slug": "characters",
+            "description": "Soft overviews of Ryan, Alexander, and Conrad."
+          },
+          {
+            "label": "Gameplay and playthrough overview",
+            "slug": "gameplay",
+            "description": "How the wash loop and full playthrough progression fit together."
+          }
+        ]
+      },
+      {
+        "id": "first-wash-steps",
+        "heading": "First Wash Steps",
+        "intro": "A practical order of operations for your opening visits.",
+        "steps": [
+          {
+            "heading": "Confirm platform and input",
+            "description": "Launch from Steam or itch on Windows, macOS, or Linux (Steam Deck Verified per official Sep 15, 2026 Steam news). Full controller support is listed on Steam—if you prefer a pad, connect it before the first wash and open Options for Invert Look Y or Sprayer Reduce Motion from the Kobold Hotfix if camera or sprayer motion feels off."
+          },
+          {
+            "heading": "Do a slow full-body pass",
+            "description": "Clean obvious surfaces first, then deliberately check tails, neck backs, and other easy-to-miss angles. Itch comments say the clean bar can look full while a job still refuses to finish because of leftover dirt or ink in those spots."
+          },
+          {
+            "heading": "Follow chat and comfort prompts",
+            "description": "Talk as you wash. When the visit surfaces a personal request, complete it in the prompted order. Out-of-order personal request handling is a community-reported softlock risk on later Conrad visits."
+          },
+          {
+            "heading": "Save before late branches",
+            "description": "When a visit feels like it is approaching a major beat or credits, duplicate or keep a separate slot. Continuing after finishing a slot can dump you into credits, which wastes route options."
+          }
+        ],
+        "links": [
+          {
+            "label": "Open controls and tool habits",
+            "slug": "controls-and-tools"
+          }
+        ]
+      },
+      {
+        "id": "stuck-clean-bar-checklist",
+        "heading": "Stuck Clean Bar Checklist",
+        "intro": "When the meter looks done but the job will not complete.",
+        "paragraphs": [
+          "This is the most common early frustration in itch comments. The UI can read as nearly complete while a tiny missed patch blocks the finish state. Assume you missed geometry before assuming a broken meter."
+        ],
+        "subsections": [
+          {
+            "heading": "Restart the job and re-scout",
+            "paragraphs": [
+              "Back out or restart the wash job if the game allows, then re-enter with a scavenger mindset. Circle the dragon slowly. Prioritize the tail, the back of the neck, and any inked or patterned areas that blend into wet shading."
+            ],
+            "bullets": [
+              "Check ink on the tail",
+              "Check the back of the neck",
+              "Change camera height and orbit both sides",
+              "Finish remaining soap or tool passes before forcing dialogue"
+            ]
+          },
+          {
+            "heading": "If it still will not finish",
+            "paragraphs": [
+              "Reload an earlier save and repeat the pass with a different camera distance. Confirm you are not mid-request with an unresolved prompt. Softlock-like states are more often tied to request order or credits interactions than to the clean bar alone. For a fuller recovery path, use the escape guide."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "Full escape and softlock checklist",
+            "slug": "how-to-escape"
+          }
+        ]
+      },
+      {
+        "id": "comfort-and-requests",
+        "heading": "Comfort, Chat, and Personal Requests",
+        "paragraphs": [
+          "Comfort is the pacing layer on top of cleaning. Washing well keeps the visit moving; chat and attentive responses raise comfort so new requests appear. Official framing is “tend to requests as comfort grows,” not a published percentage table. React to what the current visit shows on screen.",
+          "When a request appears, treat it as part of the critical path for that visit. Itch comments warn that completing personal requests out of the prompted order can softlock later Conrad content. Keep the tone practical: finish the highlighted ask, then return to any remaining wash work.",
+          "Adult scenes exist deeper in comfort growth. Consistent cleaning, attentive dialogue, and ordered requests are enough for a first clear without memorizing fragile dialogue trees."
+        ],
+        "links": [
+          {
+            "label": "Plan endings after your first clear",
+            "slug": "endings-guide"
+          }
+        ]
+      },
+      {
+        "id": "save-tips-for-beginners",
+        "heading": "Save Tips Before You Chase Endings",
+        "paragraphs": [
+          "Official structure is three endings at roughly ninety minutes each. That is short enough to replay, but long enough that careless overwrites hurt. Keep a “safe hub” save before late branches, and a separate slot per route you intend to finish.",
+          "After a slot reaches credits, continuing from that same file can drop you back into credits instead of a flexible free-play state. Players also report a softlock risk if you select unstuck kobold during credits—avoid experimental menu choices there even though the official Kobold Hotfix added Unstick Kobold on the pause menu for stuck play states.",
+          "A simple Drag'n Wash beginner routine is enough: one careful wash, one backup save, and no experiments in the credits menu. Once that feels automatic, the endings and escape pages become useful instead of overwhelming."
+        ],
+        "links": [
+          {
+            "label": "Escape stuck states without burning saves",
+            "slug": "how-to-escape"
+          }
+        ]
+      },
+      {
+        "id": "beginner-mistakes",
+        "heading": "Common Beginner Mistakes",
+        "table": {
+          "caption": "Early mistakes and safer habits",
+          "columns": [
+            "Mistake",
+            "Better habit"
+          ],
+          "rows": [
+            [
+              "Rushing only the front of the model",
+              "Orbit and check tail / neck / ink spots"
+            ],
+            [
+              "Ignoring a highlighted personal request",
+              "Resolve prompts in the order shown"
+            ],
+            [
+              "One save slot for everything",
+              "Separate pre-branch and per-route saves"
+            ],
+            [
+              "Fighting camera motion without Options",
+              "Try Invert Look Y or Sprayer Reduce Motion"
+            ],
+            [
+              "Jumping into VR on day one",
+              "Learn flat play first; VR is a community mod"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "Master the flat wash loop before optional community mods. Native VR is not listed on official store pages; if you want a headset later, use the VR mod guide’s ownership, backup, and launch-flag checks.",
+          "If you only remember three things from this Drag'n Wash beginner guide, make them these: scout the tail and neck before blaming the clean bar, honor prompt order on personal requests, and keep a pre-credits save before you chase a second ending."
+        ]
+      },
+      {
+        "id": "sources",
+        "heading": "Sources",
+        "intro": "Primary references used for this page. Official store facts and patch notes are separated from itch comment troubleshooting.",
+        "paragraphs": [
+          "Prefer these pages when a patch changes options, softlock behavior, or mod install steps. Label community comments as player reports until an official note confirms them."
+        ],
+        "externalLinks": [
+          {
+            "label": "Steam store page",
+            "url": "https://store.steampowered.com/app/4739660/Dragn_Wash/",
+            "description": "Official loop, endings timing, controller support."
+          },
+          {
+            "label": "Steam news: Kobold Hotfix",
+            "url": "https://store.steampowered.com/news/app/4739660/1843481262700350",
+            "description": "Official Options comfort toggles and Unstick Kobold."
+          },
+          {
+            "label": "Official itch.io page / comments",
+            "url": "https://gatordragongames.itch.io/dragnwash",
+            "description": "Store framing plus clean-bar and softlock player reports."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How long is a beginner clear?",
+        "answer": "Official materials describe about ninety minutes per ending. Your first session may run longer while you learn camera angles and request pacing."
+      },
+      {
+        "question": "Why won’t my wash job finish?",
+        "answer": "Itch comments usually point to missed dirt—especially ink on the tail or the back of the neck—even when the clean bar looks full. Restart the job and recheck hard-to-see spots."
+      },
+      {
+        "question": "Do I need exact trust percentages?",
+        "answer": "No. Official Drag'n Wash progression is framed around washing, chatting, and tending requests as comfort grows. Follow on-screen prompts."
+      },
+      {
+        "question": "Should I use a controller?",
+        "answer": "You can. Steam lists full controller support for Drag'n Wash. Check Options for Invert Look Y and Sprayer Reduce Motion from the official Kobold Hotfix."
+      },
+      {
+        "question": "When should I read the endings guide?",
+        "answer": "After one comfortable Drag'n Wash wash loop, or immediately if you already know you want multiple endings and need save-slot strategy."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "controls-and-tools",
+      "how-to-escape",
+      "endings-guide"
+    ],
+    "lastReviewed": "2026-09-16",
+    "densityTargets": [
+      {
+        "term": "Drag'n Wash",
+        "min": 0.8,
+        "max": 2
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "endings-guide",
+    "pageType": "guide",
+    "navLabel": "Endings",
+    "title": "Drag'n Wash Endings Guide: All 3 Routes",
+    "description": "Plan all three Drag'n Wash endings with route focus, save-slot strategy, Official vs Community notes, and softlock risks labeled clearly for replay.",
+    "keywords": [
+      "Drag'n Wash endings",
+      "Drag'n Wash endings guide",
+      "Drag'n Wash routes",
+      "Drag'n Wash save"
+    ],
+    "primaryKeyword": "Drag'n Wash endings",
+    "secondaryKeywords": [
+      "Drag'n Wash endings guide",
+      "Drag'n Wash routes",
+      "Drag'n Wash three endings"
+    ],
+    "searchIntent": "Players who want all three endings with practical save advice and light spoiler control.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 1200,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Routes & saves",
+      "heading": "Drag'n Wash Endings Guide",
+      "lead": "Official materials confirm three endings at about ninety minutes each. This Drag'n Wash endings guide explains how to plan routes and saves with Official versus Community labels kept clear."
+    },
+    "sections": [
+      {
+        "id": "quick-answer",
+        "heading": "Quick Answer: Three Endings",
+        "eyebrow": "Answer first",
+        "intro": "What you can rely on before any spoiler detail.",
+        "paragraphs": [
+          "Official: Drag'n Wash has three endings, and each ending is about ninety minutes. That is the planning backbone for every replay.",
+          "Practical path: finish one discovery clear, keep a hub save from before late branches, then specialize comfort attention on one dragon route per replay. Community discussion commonly orients those routes around Ryan, Alexander, and Conrad.",
+          "Exact dialogue trees and trust percentage tables are not published here. Follow on-screen prompts, keep named saves, and use the table below for route focus and risk notes."
+        ]
+      },
+      {
+        "id": "spoiler-warning",
+        "heading": "Spoiler Warning",
+        "intro": "This page discusses ending structure, route focus, and late-game save behavior.",
+        "paragraphs": [
+          "If you want a completely blind first clear, stop after the Quick Answer and finish one ending on your own. The rest of the page stays free of explicit sexual detail, but it does talk about multiple endings, credits behavior, softlock risks, and which character routes players commonly chase."
+        ]
+      },
+      {
+        "id": "endings-route-table",
+        "heading": "Endings Route Planning Table",
+        "intro": "High-level focus only. Official rows are store facts; Community rows are player-oriented planning notes.",
+        "table": {
+          "caption": "Drag'n Wash endings planning",
+          "columns": [
+            "Ending / Route focus",
+            "What to prioritize",
+            "Save point",
+            "Known risk",
+            "Source label"
+          ],
+          "rows": [
+            [
+              "Any first clear",
+              "Learn wash scouting + prompt order",
+              "Copy before late branch / credits",
+              "Credits continue can loop",
+              "Official timing + Community save notes"
+            ],
+            [
+              "Ryan-focused replay",
+              "Ryan washes, chat, and requests",
+              "Named pre-late Ryan backup",
+              "Missed dirt stalls comfort beats",
+              "Community route focus"
+            ],
+            [
+              "Alexander-focused replay",
+              "Alexander visits completed cleanly",
+              "Named pre-late Alexander backup",
+              "Split attention across visitors",
+              "Community route focus"
+            ],
+            [
+              "Conrad-focused replay",
+              "Conrad comfort + prompted request order",
+              "Backup before late Conrad visits",
+              "Request-order softlock reports",
+              "Community softlock notes"
+            ],
+            [
+              "Completionist weekend",
+              "One dragon per replay from a hub save",
+              "Hub + active + pre-credits slots",
+              "Overwriting the only clear file",
+              "Official 3×~90 min structure"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "Read the Source label column before you treat a cell as hard rule. Official timing and ending count come from store copy. Route names and softlock patterns come from itch comments and player planning habits.",
+          "You do not need a proprietary trigger spreadsheet to use this table. Prioritize one route’s comfort arc, finish washes thoroughly, and protect a file before the visit that feels like a lock-in."
+        ],
+        "links": [
+          {
+            "label": "Compare Ryan, Alexander, and Conrad",
+            "slug": "characters"
+          },
+          {
+            "label": "Softlock escape steps",
+            "slug": "how-to-escape"
+          }
+        ]
+      },
+      {
+        "id": "save-slot-strategy",
+        "heading": "Save-Slot Strategy That Reduces Replay Waste",
+        "paragraphs": [
+          "Because each ending is near ninety minutes, one overwritten file can cost an evening. Build a simple slot map before late branches."
+        ],
+        "subsections": [
+          {
+            "heading": "Recommended slot layout",
+            "paragraphs": [
+              "Keep one early “hub” save after you understand the wash loop but before major route locks. Keep one active slot for your current ending attempt. When a visit clearly pivots toward a specific dragon’s late arc, copy that file to a named backup before you continue."
+            ],
+            "bullets": [
+              "Slot A — post-tutorial / stable hub",
+              "Slot B — active route in progress",
+              "Slot C — pre-credits or pre-branch backup",
+              "Optional Slot D — second route ready to diverge"
+            ]
+          },
+          {
+            "heading": "Credits and continue quirks",
+            "paragraphs": [
+              "Community: using continue after finishing a slot can dump you straight into credits again. Do not rely on a finished file as your branching point. Also avoid experimental credits options such as unstuck kobold, which itch comments link to softlocks. During normal play, Unstick Kobold on the pause menu is the documented recovery tool from the official Kobold Hotfix."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "Refresh beginner save habits",
+            "slug": "beginner-guide"
+          }
+        ]
+      },
+      {
+        "id": "route-focus-practical",
+        "heading": "Practical Route Focus",
+        "paragraphs": [
+          "High-level route advice is stable even when dialogue lists are not. Pick the dragon whose presence you want to prioritize, keep their washes thorough, and answer their comfort prompts as they appear. Split attention across every visitor evenly if you are still on a discovery clear; specialize once you are ending hunting.",
+          "Ryan draws a lot of search interest. Conrad is often discussed with later-visit caution around request order. Alexander appears in the same cast discussions. Keep expectations soft: these are orientation notes for planning, not long-form official bios.",
+          "If a personal request appears, complete it in the prompted sequence. The Kobold Hotfix addressed a known level-8 Conrad request-order softlock, and community troubleshooting still warns that skipping ahead of the visit’s request can softlock later visits. That advice is about order and prompts.",
+          "When you specialize, say the focus out loud when you name the save file. A slot labeled “Ryan pre-late” or “Conrad pre-request” is easier to trust at midnight than a generic autosave. That tiny labeling habit is as important as any Drag'n Wash endings tip about comfort priority."
+        ],
+        "links": [
+          {
+            "label": "Character orientation before specializing",
+            "slug": "characters"
+          }
+        ]
+      },
+      {
+        "id": "replay-plan",
+        "heading": "A Practical Replay Plan",
+        "steps": [
+          {
+            "heading": "Clear once for systems",
+            "description": "Finish a first ending while learning clean-bar scouting, request order, and credits behavior."
+          },
+          {
+            "heading": "Return to a hub save",
+            "description": "Reload the pre-branch backup instead of continuing a credits-locked file."
+          },
+          {
+            "heading": "Specialize per dragon",
+            "description": "On each replay, prioritize one character’s comfort arc and keep washes complete."
+          },
+          {
+            "heading": "Verify softlock-prone moments",
+            "description": "Slow down on later visits and credits menus; keep a backup before experimental choices."
+          }
+        ],
+        "paragraphs": [
+          "This plan respects the official three-ending structure. If a patch changes branch timing, prompt-following and save hygiene still work.",
+          "Players who only want one favorite route still benefit from the same Drag'n Wash endings discipline: name your slots, copy before late branches, and never treat a credits file as a flexible hub.",
+          "Keep the plan boring and repeatable. A calm Drag'n Wash endings weekend is three named backups and three focused visits, not one heroic overwrite."
+        ]
+      },
+      {
+        "id": "official-vs-community",
+        "heading": "Official vs Community Labels",
+        "paragraphs": [
+          "Keep labels honest while you plan Drag'n Wash endings. Official means store-page facts: three endings, about ninety minutes each, wash/chat/request loop, adult-only framing, and full controller support on Steam categories.",
+          "Community means itch-comment troubleshooting and player route habits: Ryan, Alexander, and Conrad as common focus names; clean-bar leftovers on tails and necks; credits continue quirks; credits unstuck warnings; and Conrad request-order softlocks.",
+          "Mixing those layers is how guides overclaim. Use Official numbers for time budgets. Use Community notes for risk checklists. When a patch lands, re-check Options and pause-menu recovery first—Unstick Kobold on pause is documented in the official Kobold Hotfix—then decide whether an older softlock report still applies.",
+          "If you only need one takeaway: budget three short-novel routes, protect a hub save, and treat prompt order as part of the critical path whenever Conrad’s later visits appear."
+        ],
+        "links": [
+          {
+            "label": "Escape checklist for Community softlocks",
+            "slug": "how-to-escape"
+          }
+        ]
+      },
+      {
+        "id": "sources",
+        "heading": "Sources",
+        "intro": "Primary references used for this page. Official store facts and patch notes are separated from itch comment troubleshooting.",
+        "paragraphs": [
+          "Prefer these pages when a patch changes options, softlock behavior, or mod install steps. Label community comments as player reports until an official note confirms them."
+        ],
+        "externalLinks": [
+          {
+            "label": "Steam store page",
+            "url": "https://store.steampowered.com/app/4739660/Dragn_Wash/",
+            "description": "Official three endings / ~90 minutes framing."
+          },
+          {
+            "label": "Official itch.io page / comments",
+            "url": "https://gatordragongames.itch.io/dragnwash",
+            "description": "Official timing plus Community softlock and credits notes."
+          },
+          {
+            "label": "Steam news: Kobold Hotfix",
+            "url": "https://store.steampowered.com/news/app/4739660/1843481262700350",
+            "description": "Official Unstick Kobold and Conrad level-8 softlock fix."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many endings does Drag'n Wash have?",
+        "answer": "Official description lists three endings, each about ninety minutes."
+      },
+      {
+        "question": "Can I see every ending in one save?",
+        "answer": "Plan separate Drag'n Wash saves before late branches. Continuing a finished slot can dump you into credits, so finished files are poor branching points."
+      },
+      {
+        "question": "Will you list exact ending triggers?",
+        "answer": "No. Focus on comfort with a chosen route, follow in-job prompts, and keep backups. Exact lists go stale across patches."
+      },
+      {
+        "question": "Which ending should I chase second?",
+        "answer": "Pick the dragon you care about most after your discovery clear—Ryan, Alexander, or Conrad—and protect a named pre-late save."
+      },
+      {
+        "question": "What softlocks should I watch for while ending hunting?",
+        "answer": "Community reports flag credits unstuck kobold choices and later Conrad visits where personal requests are completed out of the prompted order."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "characters",
+      "how-to-escape",
+      "beginner-guide"
+    ],
+    "lastReviewed": "2026-09-16",
+    "densityTargets": [
+      {
+        "term": "Drag'n Wash",
+        "min": 0.8,
+        "max": 2
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "characters",
+    "pageType": "guide",
+    "navLabel": "Characters",
+    "title": "Drag'n Wash Characters: Ryan, Alexander & Conrad",
+    "description": "Meet Ryan, Alexander, and Conrad in Drag'n Wash: visit roles, comfort-route tips, Conrad request-order caution, and links into endings planning.",
+    "keywords": [
+      "Drag'n Wash characters",
+      "Drag'n Wash Ryan",
+      "Drag'n Wash Alexander",
+      "Drag'n Wash Conrad"
+    ],
+    "primaryKeyword": "Drag'n Wash characters",
+    "secondaryKeywords": [
+      "Drag'n Wash Ryan",
+      "Drag'n Wash Conrad",
+      "Drag'n Wash Alexander"
+    ],
+    "searchIntent": "Players identifying the main dragons and deciding which route to prioritize.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 1100,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Cast overview",
+      "heading": "Drag'n Wash Characters",
+      "lead": "The dragons you wash are the heart of Drag'n Wash. This overview covers Ryan, Alexander, and Conrad for route focus, with itch-comment and localization naming cross-checks and links into endings planning."
+    },
+    "sections": [
+      {
+        "id": "how-characters-work",
+        "heading": "How Characters Fit the Game",
+        "paragraphs": [
+          "Official store copy describes a wash service where you clean dragons, chat, and tend to requests as comfort grows. Characters are not loot tables or boss ranks—they are visit partners whose comfort arcs shape which ending you are steering toward across roughly ninety-minute routes.",
+          "Names below appear in itch comments; Ryan and Alexander also appear in TomXV localization dialogue notes for the project. Spelling matters: players looking for this cast mean Ryan, Alexander, and Conrad.",
+          "Use these blurbs to choose a route focus, then follow in-game prompts. Reading a Drag'n Wash characters page before your second playthrough is usually enough. On the first clear, meet whoever arrives and learn the wash loop; on later clears, pick a focus dragon and protect that route with separate saves."
+        ],
+        "links": [
+          {
+            "label": "See how endings map to routes",
+            "slug": "endings-guide"
+          }
+        ]
+      },
+      {
+        "id": "ryan",
+        "heading": "Ryan",
+        "intro": "Named in itch comments and localization dialogue notes; frequently searched for ending routes.",
+        "paragraphs": [
+          "Ryan is one of the most searched characters for ending guides. Players often describe the route as lively and expressive in conversation and reaction during washes. That reputation drives a lot of “Ryan ending” queries even when people still want spoiler-light advice.",
+          "For progression, treat Ryan like any comfort-focused route: wash thoroughly, answer prompts as they appear, and keep a dedicated save before late branches. Exact trigger lists are omitted here because they are patch-fragile; use the endings guide for save strategy and route focus habits.",
+          "Keep cleaning standards high on Ryan visits. A missed dirt spot can stall a job before comfort beats matter, which feels worse when you are intentionally specializing."
+        ],
+        "links": [
+          {
+            "label": "Endings route planning table",
+            "slug": "endings-guide"
+          },
+          {
+            "label": "Ryan character guide",
+            "slug": "characters/ryan",
+            "description": "Role, route context, and endings entry points for Ryan."
+          }
+        ]
+      },
+      {
+        "id": "alexander",
+        "heading": "Alexander",
+        "intro": "Named in itch comments and localization dialogue notes; discussed alongside the other primary visitors.",
+        "paragraphs": [
+          "Alexander appears in the same cast conversations as Ryan and Conrad. Players look him up when they are collecting all three endings or comparing tone across routes. The safest guidance is to prioritize his visits cleanly when you are on an Alexander-focused replay.",
+          "Complete washes, follow comfort requests in order, and use separate saves if you intend to branch after shared early visits.",
+          "If you are still on a discovery clear, you can meet Alexander naturally while learning the wash loop. Specialized route hunting works better after you already know how stuck clean bars and request prompts behave."
+        ],
+        "links": [
+          {
+            "label": "Practice the wash loop first",
+            "slug": "beginner-guide"
+          },
+          {
+            "label": "Alexander character guide",
+            "slug": "characters/alexander",
+            "description": "Role, route context, and endings entry points for Alexander."
+          }
+        ]
+      },
+      {
+        "id": "conrad",
+        "heading": "Conrad",
+        "intro": "Named in itch comments; later-visit request-order caution is the practical note.",
+        "paragraphs": [
+          "Conrad shows up often in player discussions of warmer, larger-presence visits. Players who enjoy a steadier route often prioritize him on a second or third clear.",
+          "Important troubleshooting note from itch comments: later Conrad visits can softlock if personal requests are completed out of the prompted order. Keep that guidance mechanical and SFW: complete personal requests in the prompted order; do not skip ahead of the visit’s request.",
+          "Because Conrad softlock talk shows up in endings troubleshooting, keep a backup save before late Conrad visits even if you are not otherwise ending hunting. If your Drag'n Wash cast notes only include tone and skip the request-order warning, they are incomplete for practical play."
+        ],
+        "links": [
+          {
+            "label": "Escape Conrad softlock and other stuck states",
+            "slug": "how-to-escape"
+          },
+          {
+            "label": "Read endings softlock and save tips",
+            "slug": "endings-guide"
+          },
+          {
+            "label": "Conrad character guide",
+            "slug": "characters/conrad",
+            "description": "Role, request-order caution, and endings entry points for Conrad."
+          }
+        ]
+      },
+      {
+        "id": "choosing-a-focus",
+        "heading": "Choosing a Character Focus",
+        "table": {
+          "caption": "Route focus cheatsheet",
+          "columns": [
+            "If you want…",
+            "Start with…"
+          ],
+          "rows": [
+            [
+              "A frequently discussed expressive route",
+              "Ryan + endings save map"
+            ],
+            [
+              "A later-visit caution route",
+              "Conrad + escape checklist"
+            ],
+            [
+              "Full completion across the cast",
+              "Endings guide + separate saves"
+            ],
+            [
+              "Systems mastery before specializing",
+              "Beginner guide first"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "Character pages should help you pick a lane, not replace the game’s own prompts. Official design already packages three endings at short-novel length; specializing per dragon is the practical completionist path.",
+          "When friends ask which Drag'n Wash characters matter for endings, the honest answer is the trio above. Side flavor may appear in conversation, but route planning discussions almost always return to Ryan, Alexander, and Conrad."
+        ]
+      },
+      {
+        "id": "pre-route-checklist",
+        "heading": "Pre-Route Character Checklist",
+        "intro": "Use this before locking a second or third clear to one dragon.",
+        "paragraphs": [
+          "A Drag'n Wash characters overview is most useful right after your discovery clear. You already know how the clean bar and request prompts behave, so preference can drive the next save instead of panic troubleshooting."
+        ],
+        "subsections": [
+          {
+            "heading": "Before you specialize",
+            "paragraphs": [
+              "Confirm you can finish a wash without stalling on missed dirt, keep at least one backup outside the slot you will overwrite, and decide whether Conrad’s request-order caution applies to this run."
+            ],
+            "bullets": [
+              "Name the focus dragon in the save slot label",
+              "Duplicate a pre-branch backup before late visits",
+              "Re-read Conrad request-order notes if he is the focus",
+              "Open the endings or escape page only after saves are safe"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sfw-boundaries",
+        "heading": "SFW Boundaries on Character Pages",
+        "paragraphs": [
+          "Official marketing states adult male dragon content, including male-on-male dragon and male dragon on player material. We acknowledge that so buyers understand the product, then stop. No genital descriptions, no explicit act walkthroughs, and no pornographic galleries belong on this site.",
+          "Team credits on itch list GatorDragonGames, Hopfel, Jigglebonez, RalivDev, naelstrof, and Ahze under Gator Dragon Games. For art, patch, or cast updates beyond this overview, check the official Steam and itch pages.",
+          "This Drag'n Wash characters guide exists so you can orient quickly, then return to washing."
+        ]
+      },
+      {
+        "id": "sources",
+        "heading": "Sources",
+        "intro": "Primary references used for this page. Official store facts and patch notes are separated from itch comment troubleshooting.",
+        "paragraphs": [
+          "Prefer these pages when a patch changes options, softlock behavior, or mod install steps. Label community comments as player reports until an official note confirms them."
+        ],
+        "externalLinks": [
+          {
+            "label": "Official itch.io page / comments",
+            "url": "https://gatordragongames.itch.io/dragnwash",
+            "description": "Character names and Conrad softlock discussion."
+          },
+          {
+            "label": "Localization release v0.6.0",
+            "url": "https://github.com/TomXV/dragnwash-localization/releases/tag/v0.6.0",
+            "description": "Ryan and Alexander appear in dialogue notes."
+          },
+          {
+            "label": "Steam store page",
+            "url": "https://store.steampowered.com/app/4739660/Dragn_Wash/",
+            "description": "Adult framing and wash/chat/request loop."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Who are the main Drag'n Wash characters?",
+        "answer": "Player discussions and naming notes consistently center Ryan, Alexander, and Conrad as the primary dragons people route around."
+      },
+      {
+        "question": "Are long personality bios official?",
+        "answer": "Store pages focus on the wash service and adult framing. Soft tone notes come from player discussion; treat them as orientation, not encyclopedia entries."
+      },
+      {
+        "question": "Which character has the most ending searches?",
+        "answer": "Ryan ending queries are especially common. Use the endings guide for save strategy while specializing on his visits."
+      },
+      {
+        "question": "Is Conrad associated with any softlock?",
+        "answer": "Itch comments warn about later Conrad visits when personal requests are completed out of the prompted order. Keep backups and follow on-screen request sequence."
+      },
+      {
+        "question": "Will this page spoil endings?",
+        "answer": "It stays lighter than the endings guide, but choosing a focus implies route intent. Use the endings spoiler warning if you want a fully blind clear."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "endings-guide",
+      "how-to-escape",
+      "beginner-guide"
+    ],
+    "lastReviewed": "2026-09-16",
+    "densityTargets": [
+      {
+        "term": "Drag'n Wash",
+        "min": 0.8,
+        "max": 2
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "controls-and-tools",
+    "pageType": "guide",
+    "navLabel": "Controls",
+    "title": "Drag'n Wash Controls & Tools Guide",
+    "description": "Drag'n Wash controls and tools: full controller support, Invert Look Y, Sprayer Reduce Motion, wash-pass habits, and Unstick Kobold pause tips.",
+    "keywords": [
+      "Drag'n Wash controls",
+      "Drag'n Wash tools",
+      "Drag'n Wash controller",
+      "Drag'n Wash settings"
+    ],
+    "primaryKeyword": "Drag'n Wash controls",
+    "secondaryKeywords": [
+      "Drag'n Wash tools",
+      "Drag'n Wash controller",
+      "Drag'n Wash settings"
+    ],
+    "searchIntent": "Players looking for input, tool, and comfort help while washing.",
+    "priority": "P1",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 1100,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Input & wash loop",
+      "heading": "Drag'n Wash Controls and Tools",
+      "lead": "Run the wash loop smoothly on keyboard or controller, use Options comfort toggles, scout missed dirt when the clean bar stalls, and know where Unstick Kobold lives on the pause menu."
+    },
+    "sections": [
+      {
+        "id": "controller-and-input-support",
+        "heading": "Controller and Input Support",
+        "paragraphs": [
+          "Steam categories list full controller support for Drag'n Wash. Most Drag'n Wash controls questions start there. That makes a pad a first-class option on Windows, macOS, and Linux builds distributed through Steam or itch, including Steam Deck Verified play per official September 15, 2026 Steam news. Connect your controller before launching if you want the game to detect it cleanly on the first visit.",
+          "Open the in-game Options or rebind screen for your build’s actual mappings, then bind wash, camera, confirm, and menu actions to whatever is comfortable for long orbits around a dragon. Static third-party key charts drift across patches.",
+          "The official Kobold Hotfix Steam news (September 13, 2026) adds Invert Look Y / invert-Y mouse options and Sprayer Reduce Motion under Options. Use those if look direction or sprayer motion comfort is fighting you during long washes.",
+          "Good Drag'n Wash controls setup is boring on purpose: reliable camera orbits, comfortable confirm/cancel, and no fighting the stick while you hunt a last dirt speck. Spend two minutes in Options before your first paid visit so you are not rebinding mid-prompt."
+        ],
+        "links": [
+          {
+            "label": "New to the wash loop? Start beginner tips",
+            "slug": "beginner-guide"
+          }
+        ]
+      },
+      {
+        "id": "options-comfort",
+        "heading": "Options Worth Checking",
+        "intro": "Confirmed in the official Kobold Hotfix Steam news (September 13, 2026).",
+        "table": {
+          "caption": "Comfort and recovery options",
+          "columns": [
+            "Option / tool",
+            "Where",
+            "Why it helps"
+          ],
+          "rows": [
+            [
+              "Invert Look Y",
+              "Options",
+              "Flips vertical look if camera orbits feel inverted"
+            ],
+            [
+              "Sprayer Reduce Motion",
+              "Options",
+              "Reduces sprayer motion discomfort during washes"
+            ],
+            [
+              "Unstick Kobold",
+              "Pause / game menu",
+              "Recovery tool when you are stuck during play"
+            ]
+          ]
+        },
+        "paragraphs": [
+          "Unstick Kobold on the pause menu is for stuck play states. Itch comments still warn against selecting unstuck kobold during credits, where experimental menu choices have softlocked players. Use pause-menu recovery during visits; use backups around credits."
+        ],
+        "links": [
+          {
+            "label": "Full escape checklist",
+            "slug": "how-to-escape"
+          }
+        ]
+      },
+      {
+        "id": "wash-tool-loop",
+        "heading": "Wash Tool Loop Habits",
+        "intro": "Tools exist to support cleaning and comfort, not a deep crafting tree.",
+        "paragraphs": [
+          "Official framing is soap-and-wash service work: you clean, chat, and tend requests as comfort grows. In practice that means selecting the appropriate wash tools as the visit presents them, covering the model systematically, and switching focus when a prompt appears.",
+          "Work in passes. First pass: large surfaces you can see head-on. Second pass: sides and underside angles. Third pass: detail areas that itch comments flag as finish blockers—tail ink, back of the neck, and other easy-to-miss patches. Tool swapping mid-pass is fine; leaving entire angles untouched is what stalls jobs.",
+          "When a personal request interrupts the wash, resolve the highlighted ask, then return to cleaning. Out-of-order request completion is a community-reported softlock pattern on later Conrad visits, so treat prompts as part of the control flow.",
+          "Keep Drag'n Wash tool swaps deliberate: finish a sector, then change tools, then resume the orbit. Random swapping is how players lose track of which flank still needs soap."
+        ],
+        "steps": [
+          {
+            "heading": "Lock a stable camera distance",
+            "description": "Pick a distance where soap coverage and dirt reads are both visible. Re-center if the model fills the frame too tightly to see edges."
+          },
+          {
+            "heading": "Orbit on purpose",
+            "description": "Move around the dragon in consistent clockwise or counterclockwise loops so you know which sectors you already cleaned."
+          },
+          {
+            "heading": "Detail-scout before forcing a finish",
+            "description": "If the clean bar looks done, do one more slow scout of tail, neck back, and ink before assuming a bug."
+          }
+        ],
+        "links": [
+          {
+            "label": "Conrad and cast context",
+            "slug": "characters"
+          }
+        ]
+      },
+      {
+        "id": "clean-bar-troubleshooting",
+        "heading": "Clean Bar Troubleshooting",
+        "paragraphs": [
+          "A full-looking clean bar that will not complete the job is the top mechanical complaint in itch comments. The usual cause is missed dirt rather than a broken meter.",
+          "If scouting fails twice, reload an earlier save and repeat with slower orbits. Combine this checklist with the beginner guide’s first-wash steps when you are still learning model silhouettes.",
+          "Most “broken meter” reports in Drag'n Wash controls threads resolve after a slower third pass. Treat the checklist as muscle memory before you file a bug or reinstall."
+        ],
+        "table": {
+          "caption": "Clean bar stuck checklist",
+          "columns": [
+            "Check",
+            "Why it matters"
+          ],
+          "rows": [
+            [
+              "Tail ink / patterned tail areas",
+              "Easy to overlook from front cameras"
+            ],
+            [
+              "Back of the neck",
+              "Often behind your default view"
+            ],
+            [
+              "Both flanks after a height change",
+              "Vertical camera shifts hide strips of dirt"
+            ],
+            [
+              "Restart job then re-scout",
+              "Fresh pass reveals leftovers faster"
+            ],
+            [
+              "Unresolved request prompt",
+              "Visit may be waiting on order-sensitive asks"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "credits-menu-cautions",
+        "heading": "Credits Menu and Recovery Cautions",
+        "paragraphs": [
+          "Controls are not only about washing. Community reports say selecting unstuck kobold during credits can softlock. After an ending, prefer known-good menu exits and rely on backup saves instead of experimental credits options.",
+          "Likewise, continuing a finished slot may throw you back into credits. That is a save-planning issue as much as a controls issue—keep pre-credits backups when you still intend to branch.",
+          "Put differently: the riskiest Drag'n Wash “button” late in a run is often a credits menu curiosity, not a wash tool. Finish, quit cleanly, and reload a named backup when you are ready for the next route."
+        ],
+        "links": [
+          {
+            "label": "Endings save-slot strategy",
+            "slug": "endings-guide"
+          },
+          {
+            "label": "VR mod install and safety checks",
+            "slug": "vr-mod"
+          }
+        ]
+      },
+      {
+        "id": "session-control-checklist",
+        "heading": "Session Control Checklist",
+        "intro": "A short pre-visit pass that prevents most input frustration.",
+        "paragraphs": [
+          "Treat Drag'n Wash controls like hygiene for every Drag'n Wash session for a ninety-minute ending: fix camera comfort first, then wash discipline, then menu caution after credits. Skipping the first step is how players blame tools for missed dirt."
+        ],
+        "subsections": [
+          {
+            "heading": "Two-minute setup",
+            "paragraphs": [
+              "Before a serious route attempt, confirm the pad or keyboard is detected, open Options for Invert Look Y or Sprayer Reduce Motion if you need them, and do one practice orbit so stick speed matches how you scout tails and neck backs."
+            ],
+            "bullets": [
+              "Connect the controller before launch when using a pad",
+              "Check rebinds for wash, camera, confirm, and cancel",
+              "Enable Invert Look Y or Sprayer Reduce Motion if needed",
+              "Remember Unstick Kobold is on the pause menu during play",
+              "Keep a non-experimental exit habit after credits"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sources",
+        "heading": "Sources",
+        "intro": "Primary references used for this page. Official store facts and patch notes are separated from itch comment troubleshooting.",
+        "paragraphs": [
+          "Prefer these pages when a patch changes options, softlock behavior, or mod install steps. Label community comments as player reports until an official note confirms them."
+        ],
+        "externalLinks": [
+          {
+            "label": "Steam store / SteamDB",
+            "url": "https://store.steampowered.com/app/4739660/Dragn_Wash/",
+            "description": "Full controller support category."
+          },
+          {
+            "label": "Steam news: Kobold Hotfix",
+            "url": "https://store.steampowered.com/news/app/4739660/1843481262700350",
+            "description": "Official Invert Look Y, Sprayer Reduce Motion, Unstick Kobold."
+          },
+          {
+            "label": "Steam news: Steam Deck Verified!",
+            "url": "https://store.steampowered.com/news/app/4739660/1843481262703308",
+            "description": "Official Steam Deck Verified announcement and native Linux emphasis."
+          },
+          {
+            "label": "Official itch.io comments",
+            "url": "https://gatordragongames.itch.io/dragnwash",
+            "description": "Clean-bar and credits recovery player reports."
+          },
+          {
+            "label": "Community VR mod page",
+            "url": "https://randomcat4.itch.io/dragn-wash-vr-mod",
+            "description": "Headset controls are separate from flat Options."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Does Drag'n Wash support controllers?",
+        "answer": "Yes. Steam lists full controller support. Check in-game Options for your device and rebinds."
+      },
+      {
+        "question": "Where do I invert look or reduce sprayer motion?",
+        "answer": "Open Options. Invert Look Y and Sprayer Reduce Motion are documented in the official Kobold Hotfix Steam news (September 13, 2026)."
+      },
+      {
+        "question": "Where is Unstick Kobold?",
+        "answer": "On the pause / game menu for stuck play states per the Kobold Hotfix. Avoid experimental unstuck choices during credits, which players still warn can softlock."
+      },
+      {
+        "question": "What should I do if cleaning tools will not finish the job?",
+        "answer": "Scout missed dirt—especially tail ink and the back of the neck—restart the job if needed, and make sure no personal request prompt is waiting out of order."
+      },
+      {
+        "question": "Are VR controls official?",
+        "answer": "No. Native VR is not listed on official store pages. Community VR adds its own workflow; see the VR mod page for F10/F11 notes and launch flags."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "beginner-guide",
+      "how-to-escape",
+      "vr-mod"
+    ],
+    "lastReviewed": "2026-09-16",
+    "densityTargets": [
+      {
+        "term": "Drag'n Wash",
+        "min": 0.8,
+        "max": 2
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "vr-mod",
+    "pageType": "guide",
+    "navLabel": "VR Mod",
+    "title": "Drag'n Wash VR Mod Guide: Setup & Safety",
+    "description": "Set up the community Drag'n Wash VR mod safely: own the game, Easy Install ZIP, -force-d3d11, F10/F11, crash tip, and flat-play-first advice.",
+    "keywords": [
+      "Drag'n Wash VR mod",
+      "Drag'n Wash VR",
+      "Drag'n Wash BepInEx",
+      "Drag'n Wash headset"
+    ],
+    "primaryKeyword": "Drag'n Wash VR mod",
+    "secondaryKeywords": [
+      "Drag'n Wash VR",
+      "Drag'n Wash UnityVRMod",
+      "Drag'n Wash BepInEx"
+    ],
+    "searchIntent": "Players checking whether VR is official and how to approach the community mod safely.",
+    "priority": "P1",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 1100,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Unofficial headset support",
+      "heading": "Drag'n Wash VR Mod",
+      "lead": "Drag'n Wash does not list native VR on official store pages. A community mod on itch.io adds experimental headset play. This page covers ownership, Easy Install ZIP mindset, Steam launch flags, hotkeys, and safety checks—without hosting binaries."
+    },
+    "sections": [
+      {
+        "id": "official-vs-community",
+        "heading": "Official Game vs Community VR",
+        "paragraphs": [
+          "The shipping game on Steam and itch is a flat single-player simulation with full controller support listed on Steam. Native VR is not part of the official feature set on those store pages. Anything that puts you in a headset is third-party and may break after patches.",
+          "The community project lives at the RandomCat4 itch page for the Drag'n Wash VR mod. It is described as using BepInEx 6 beta with UnityVRMod, and it is in development. Always read the mod page’s current instructions—this guide summarizes widely repeated setup notes so you know what to verify.",
+          "You must own the game. Mods that require a legitimate Steam or itch install are not a substitute for buying Drag'n Wash. This site will not host mod files or mirrors; link through the itch project only.",
+          "Search results that imply “Drag'n Wash VR” is a built-in Steam feature are misleading. Treat headset support as optional community tooling layered onto the same adult simulation, with the usual backup and compatibility caution."
+        ],
+        "links": [
+          {
+            "label": "Learn flat controls before VR",
+            "slug": "controls-and-tools"
+          },
+          {
+            "label": "General mods guide",
+            "slug": "mods",
+            "description": "Mod types, safe setup checks, and how VR mods differ from other tools."
+          }
+        ]
+      },
+      {
+        "id": "pre-install-checklist",
+        "heading": "Pre-Install Checklist",
+        "intro": "Do these before touching game folders.",
+        "steps": [
+          {
+            "heading": "Own and launch the base game once",
+            "description": "Confirm a normal flat boot from Steam or itch on Windows. Finish at least one short wash so you know the save folder and Options menus."
+          },
+          {
+            "heading": "Backup saves and the game directory",
+            "description": "Copy your save slots and consider a full game folder backup. Experimental loaders can fail mid-update."
+          },
+          {
+            "heading": "Use the Easy Install ZIP from the author page",
+            "description": "Prefer the mod author’s Easy Install ZIP and README on itch. Confirm current BepInEx 6 beta / UnityVRMod requirements against the live game build."
+          },
+          {
+            "heading": "Plan a rollback",
+            "description": "Know how to remove the loader and verify files on Steam if the mod breaks boot. Keep a non-VR shortcut for comparison."
+          }
+        ],
+        "links": [
+          {
+            "label": "Beginner save habits worth copying",
+            "slug": "beginner-guide"
+          }
+        ]
+      },
+      {
+        "id": "launch-flags-and-hotkeys",
+        "heading": "Launch Flags and Hotkeys",
+        "paragraphs": [
+          "Community setup notes repeatedly mention a Steam launch option of `%command% -force-d3d11`. That flag forces a Direct3D 11 path some Unity VR tooling expects. Set it in Steam’s launch options for the game if the mod documentation still calls for it, then remove or adjust it if the author updates guidance.",
+          "While in VR, community notes reference F10 to recenter and F11 to toggle VR. Treat those as mod hotkeys layered on top of the base game, not as official Steam control categories. If they conflict with your rebinds, check both the mod README and in-game Options.",
+          "If the mod crashes, the itch page notes a `-force-gfx-direct` tip. Try that only after you confirm ownership, backups, and the primary `-force-d3d11` guidance still match the current README.",
+          "Because the mod is in development, expect occasional breakage when Gator Dragon Games patches the base simulation. After any game update, re-read the itch page before assuming yesterday’s install still works."
+        ],
+        "table": {
+          "caption": "VR setup quick reference",
+          "columns": [
+            "Item",
+            "Note from mod page"
+          ],
+          "rows": [
+            [
+              "Ownership",
+              "Required — buy on Steam or itch"
+            ],
+            [
+              "Mod host",
+              "itch.io project (not hosted here)"
+            ],
+            [
+              "Install",
+              "Easy Install ZIP"
+            ],
+            [
+              "Loader stack",
+              "BepInEx 6 beta + UnityVRMod"
+            ],
+            [
+              "Steam launch option",
+              "%command% -force-d3d11"
+            ],
+            [
+              "Recenter",
+              "F10"
+            ],
+            [
+              "Toggle VR",
+              "F11"
+            ],
+            [
+              "Crash tip",
+              "-force-gfx-direct"
+            ],
+            [
+              "Status",
+              "In development — expect changes"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "safety-and-comfort",
+        "heading": "Safety, Comfort, and SFW Notes",
+        "paragraphs": [
+          "Wash simulations involve close camera work. In VR, start with short sessions, keep recenter handy, and stop if motion comfort drops. Flat Options such as Invert Look Y and Sprayer Reduce Motion still matter as a baseline before you add headset complexity.",
+          "The base game is adult-only. VR does not change the content rating—it only changes presentation. This site remains SFW: we discuss install safety and controls, not explicit scenes.",
+          "Never install loaders from random reupload mirrors. Prefer the mod author’s itch page, keep antivirus realism in mind with injected runtimes, and do not share cracked copies.",
+          "A safe Drag'n Wash VR experiment is one you can undo in five minutes: backups ready, author README open, flat shortcut still working, and no irreplaceable ending save left only inside a modded directory."
+        ]
+      },
+      {
+        "id": "when-not-to-use-vr-yet",
+        "heading": "When Not to Use VR Yet",
+        "paragraphs": [
+          "Skip the mod until you can finish washes cleanly in flat mode. Debugging a missed dirt spot is harder when you are also debugging a loader. If you are mid-ending hunt with precious saves, finish those routes before experimenting.",
+          "Also wait if a fresh game patch just dropped and the mod page has not confirmed compatibility. Official three-ending progress is easier to protect with a stable flat install.",
+          "If you came here only to learn whether headset support is official, you already have the answer: it is not listed on the store pages. Bookmark the community Drag'n Wash VR mod page for later, then return to flat guides until your saves and comfort settings are steady."
+        ],
+        "links": [
+          {
+            "label": "Protect ending saves first",
+            "slug": "endings-guide"
+          },
+          {
+            "label": "Fix flat stuck states before VR",
+            "slug": "how-to-escape"
+          }
+        ]
+      },
+      {
+        "id": "vr-boot-troubleshooting",
+        "heading": "VR Boot Troubleshooting Mindset",
+        "intro": "When headset play fails, isolate layers instead of reinstalling everything at once.",
+        "paragraphs": [
+          "A broken Drag'n Wash VR mod boot is usually one of four layers: base game update mismatch, loader install drift, launch-option mismatch, or headset runtime not ready. Change one layer at a time and keep the flat shortcut as your control test.",
+          "If the flat game still launches, your saves and ownership are fine—focus on the mod README, `%command% -force-d3d11` if still required, then `-force-gfx-direct` only if crashes persist, and whether F10/F11 even load. If flat boot also fails after folder edits, verify Steam files or restore the backed-up game directory before touching the headset stack again."
+        ],
+        "subsections": [
+          {
+            "heading": "Quick isolation order",
+            "paragraphs": [
+              "Work top-down so you do not chase headset drivers for a missing BepInEx file."
+            ],
+            "bullets": [
+              "Confirm flat boot with a non-VR shortcut",
+              "Re-read the itch README for the current game build",
+              "Check the Steam launch option against current docs",
+              "Try the documented crash tip only after the primary flag",
+              "Only then test recenter/toggle hotkeys in a short session"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sources",
+        "heading": "Sources",
+        "intro": "Primary references used for this page. Official store facts and patch notes are separated from itch comment troubleshooting.",
+        "paragraphs": [
+          "Prefer these pages when a patch changes options, softlock behavior, or mod install steps. Label community comments as player reports until an official note confirms them."
+        ],
+        "externalLinks": [
+          {
+            "label": "Community VR mod itch page",
+            "url": "https://randomcat4.itch.io/dragn-wash-vr-mod",
+            "description": "Authoritative install, flags, hotkeys, and crash tip."
+          },
+          {
+            "label": "Steam store page",
+            "url": "https://store.steampowered.com/app/4739660/Dragn_Wash/",
+            "description": "Confirms flat game features; no native VR listing."
+          },
+          {
+            "label": "Official itch.io game page",
+            "url": "https://gatordragongames.itch.io/dragnwash",
+            "description": "Ownership / storefront for the base game."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is there official VR for Drag'n Wash?",
+        "answer": "No native VR is listed on official Steam or itch store pages. Headset play currently means a community mod."
+      },
+      {
+        "question": "Where do I get the VR mod?",
+        "answer": "From the RandomCat4 itch.io project page for the Drag'n Wash VR mod. Prefer the Easy Install ZIP. This site does not host binaries."
+      },
+      {
+        "question": "What is the Steam launch option used for?",
+        "answer": "Community setup notes use `%command% -force-d3d11` to force Direct3D 11 for the VR tooling stack. Confirm against the current mod README."
+      },
+      {
+        "question": "How do I recenter in VR?",
+        "answer": "Community notes list F10 to recenter and F11 to toggle VR. Verify on the mod page if hotkeys change."
+      },
+      {
+        "question": "The mod crashes—what else can I try?",
+        "answer": "After backups and the primary launch flag, the mod page notes a `-force-gfx-direct` crash tip. Re-read the README after any game update."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "controls-and-tools",
+      "beginner-guide",
+      "how-to-escape"
+    ],
+    "lastReviewed": "2026-09-16",
+    "densityTargets": [
+      {
+        "term": "Drag'n Wash",
+        "min": 0.8,
+        "max": 2
+      }
+    ]
+  },
+  {
+    "enabled": true,
+    "slug": "how-to-escape",
+    "pageType": "guide",
+    "navLabel": "Escape",
+    "title": "How to Escape Drag'n Wash: Unstick & Softlocks",
+    "description": "Escape stuck states in Drag'n Wash: Unstick Kobold, clean-bar leftovers, Conrad request-order softlocks, geometry traps, and when to reload a save.",
+    "keywords": [
+      "How to Escape Drag'n Wash",
+      "Drag'n Wash unstick",
+      "Drag'n Wash softlock",
+      "Drag'n Wash stuck"
+    ],
+    "primaryKeyword": "How to Escape Drag'n Wash",
+    "secondaryKeywords": [
+      "Drag'n Wash unstick",
+      "Drag'n Wash softlock",
+      "Drag'n Wash clean bar"
+    ],
+    "searchIntent": "Players stuck in geometry, clean-bar finishes, or softlocks who need recovery steps.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 1000,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Stuck-state recovery",
+      "heading": "How to Escape Drag'n Wash",
+      "lead": "Use this checklist when Drag'n Wash leaves you stuck in geometry, a clean bar that will not finish, a Conrad request-order softlock, or a bad credits menu choice. Start with pause-menu Unstick Kobold, then escalate to scouting, prompt order, and save reloads."
+    },
+    "sections": [
+      {
+        "id": "quick-answer",
+        "heading": "Quick Answer Checklist",
+        "eyebrow": "Try in this order",
+        "intro": "Most stuck Drag'n Wash reports resolve with one of these four paths.",
+        "paragraphs": [
+          "Work top-down through this How to Escape Drag'n Wash checklist. Do not jump straight to deleting saves if pause-menu recovery or a missed dirt spot can fix the visit."
+        ],
+        "table": {
+          "caption": "Stuck state → first fix",
+          "columns": [
+            "Symptom",
+            "First fix",
+            "If that fails"
+          ],
+          "rows": [
+            [
+              "Clipped / cannot move in a visit",
+              "Pause → Unstick Kobold",
+              "Reload last good save"
+            ],
+            [
+              "Clean bar looks done, job blocked",
+              "Re-scout tail / neck / ink",
+              "Restart job, then reload earlier save"
+            ],
+            [
+              "Late Conrad visit frozen after requests",
+              "Reload before the wrong-order ask",
+              "Replay visit honoring prompt order"
+            ],
+            [
+              "Softlock after credits menu click",
+              "Force-quit to desktop if needed",
+              "Load pre-credits backup"
+            ]
+          ]
+        },
+        "subsections": [
+          {
+            "heading": "Four recovery paths",
+            "paragraphs": [
+              "Most stuck reports resolve with one of these four paths."
+            ],
+            "bullets": [
+              "Geometry stuck during play → open pause menu → Unstick Kobold",
+              "Clean bar full but job will not end → restart/re-scout tail ink and neck; missed dirt is the usual itch-comment cause",
+              "Conrad later visit softlock feel → reload a pre-request save; complete personal requests in the prompted order",
+              "Credits menu experiments → avoid unstuck kobold during credits; reload a pre-credits backup if softlocked"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unstick-kobold",
+        "heading": "Unstick Kobold on the Pause Menu",
+        "paragraphs": [
+          "Official Kobold Hotfix Steam news (September 13, 2026) documents Unstick Kobold on the game/pause menu. That is the intended recovery tool when you are stuck during play—wedged in geometry, unable to re-center usefully, or otherwise trapped mid-visit.",
+          "Open pause, choose Unstick Kobold, then confirm you can move and resume washing or chatting. If the tool frees you, save to a new slot before continuing a valuable route so you are not one misclick away from the same trap.",
+          "Community warning still matters: itch comments say selecting unstuck kobold during credits can softlock. Pause-menu Unstick Kobold during visits is not the same as experimenting in the credits UI. Keep those contexts separate.",
+          "If Unstick Kobold frees you during a valuable Drag'n Wash route, copy the slot immediately. Recovery without a backup only solves the current clip, not the next one."
+        ],
+        "steps": [
+          {
+            "heading": "Pause immediately",
+            "description": "Do not mash random movement for minutes. Open the pause menu as soon as you confirm you cannot progress."
+          },
+          {
+            "heading": "Select Unstick Kobold",
+            "description": "Use the pause-menu recovery option documented in the official Kobold Hotfix Steam news."
+          },
+          {
+            "heading": "Reorient and save",
+            "description": "Check camera and movement, finish the current safe action, then write a fresh backup if this route matters."
+          }
+        ],
+        "links": [
+          {
+            "label": "Related comfort options on Controls",
+            "slug": "controls-and-tools"
+          }
+        ]
+      },
+      {
+        "id": "clean-bar-stuck",
+        "heading": "Clean Bar Full but Job Will Not End",
+        "paragraphs": [
+          "This is not always a Drag'n Wash softlock. Itch comments repeatedly describe a clean bar that looks complete while leftover dirt remains—especially ink on a tail or spots on the back of the neck. The job finish state waits on those patches.",
+          "Change camera height, orbit both flanks, and deliberately scrub patterned or inked areas. Restart the job if the game allows a fresh pass. Only after two careful scouts should you treat the state as something that needs a reload."
+        ],
+        "subsections": [
+          {
+            "heading": "Scout order that usually works",
+            "paragraphs": [
+              "Use the same scavenger pass every time so you keep a consistent search pattern under stress."
+            ],
+            "bullets": [
+              "Front and large surfaces",
+              "Left and right flanks",
+              "Tail including ink",
+              "Back of the neck",
+              "Underside / hard camera angles last"
+            ]
+          }
+        ],
+        "links": [
+          {
+            "label": "Beginner clean-bar habits",
+            "slug": "beginner-guide"
+          }
+        ]
+      },
+      {
+        "id": "conrad-request-order",
+        "heading": "Conrad Request-Order Softlock",
+        "paragraphs": [
+          "The official Kobold Hotfix addresses a Conrad softlock for a known level-8 request-order case. Community itch comments still describe later-visit softlock risk when personal requests are completed out of the prompted order—for example, skipping ahead of the visit’s request. Keep the advice SFW and mechanical.",
+          "Complete personal requests in the prompted order. Do not skip ahead of the visit’s request. Even after the hotfix, treat prompt order as the safe path. If you already skipped ahead and the visit no longer advances, reload a save from before that request chain.",
+          "If you do not have a pre-request backup, you may need to replay more of the visit. That is painful, which is why Conrad-focused runs deserve a named save before late personal request sequences.",
+          "Players hunting multiple Drag'n Wash endings should treat Conrad’s later visits as high-risk save points even on non-Conrad routes. A shared early file can still brick if request order breaks."
+        ],
+        "links": [
+          {
+            "label": "Conrad character context",
+            "slug": "characters"
+          },
+          {
+            "label": "Endings save-slot map",
+            "slug": "endings-guide"
+          }
+        ]
+      },
+      {
+        "id": "geometry-and-when-to-reload",
+        "heading": "Geometry Stuck and When to Reload",
+        "paragraphs": [
+          "Geometry stuck usually means your avatar or camera is clipped somewhere the wash tools cannot usefully reach. Try Unstick Kobold first. If you remain stuck after one or two pause-menu recoveries, reload.",
+          "Reload when: Unstick Kobold fails twice; a clean-bar scout fails twice after a job restart; a Conrad visit no longer responds after out-of-order requests; or credits menu experimentation softlocked the file.",
+          "Do not keep hammering a credits softlock hoping for a hidden exit. Force-quit if the UI is dead, then load the pre-credits backup. Continuing a finished slot can also dump you back into credits—another reason finished files make poor hubs.",
+          "Write the stuck class into your Drag'n Wash save note when you reload: geometry, clean-bar, request-order, or credits. That label stops you from repeating the same failed fix five minutes later."
+        ],
+        "steps": [
+          {
+            "heading": "Identify the stuck class",
+            "description": "Geometry, clean-bar leftovers, request-order softlock, or credits menu."
+          },
+          {
+            "heading": "Apply the matching first fix",
+            "description": "Unstick Kobold, re-scout dirt, honor prompt order via reload, or abandon credits experiments."
+          },
+          {
+            "heading": "Escalate to an earlier save",
+            "description": "Pick the newest save that still predates the bad state. Label a new slot after recovery."
+          },
+          {
+            "heading": "Prevent the repeat",
+            "description": "For routes you care about, keep hub + active + pre-late backups as described in the endings guide."
+          }
+        ]
+      },
+      {
+        "id": "prevention",
+        "heading": "Prevention Habits",
+        "paragraphs": [
+          "Most How to Escape Drag'n Wash searches are preventable with three habits: scout tails and necks before blaming the meter, honor personal request order, and never make the credits screen your sandbox. Those habits keep Drag'n Wash evenings short and recoverable.",
+          "Also turn on comfort Options if camera or sprayer motion is making you miss dirt: Invert Look Y and Sprayer Reduce Motion are documented in the same official Kobold Hotfix that added pause-menu Unstick Kobold.",
+          "If you are mid-ending hunt, postpone community VR experiments until your flat saves are safe. Headset debugging on top of a softlock is how evenings disappear."
+        ],
+        "links": [
+          {
+            "label": "Controls Options reference",
+            "slug": "controls-and-tools"
+          },
+          {
+            "label": "VR only after flat saves are safe",
+            "slug": "vr-mod"
+          }
+        ]
+      },
+      {
+        "id": "sources",
+        "heading": "Sources",
+        "intro": "Primary references used for this page. Official store facts and patch notes are separated from itch comment troubleshooting.",
+        "paragraphs": [
+          "Prefer these pages when a patch changes options, softlock behavior, or mod install steps. Label community comments as player reports until an official note confirms them."
+        ],
+        "externalLinks": [
+          {
+            "label": "Steam news: Kobold Hotfix",
+            "url": "https://store.steampowered.com/news/app/4739660/1843481262700350",
+            "description": "Official Unstick Kobold, Options comfort toggles, Conrad level-8 softlock fix."
+          },
+          {
+            "label": "Official itch.io comments",
+            "url": "https://gatordragongames.itch.io/dragnwash",
+            "description": "Clean-bar leftovers, credits unstuck warning, Conrad request-order softlock."
+          },
+          {
+            "label": "Steam store page",
+            "url": "https://store.steampowered.com/app/4739660/Dragn_Wash/",
+            "description": "Official session/endings framing for reload cost."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Where is Unstick Kobold?",
+        "answer": "On the pause / game menu per the official Kobold Hotfix Steam news. Use it during play when you are stuck, not as a credits experiment."
+      },
+      {
+        "question": "Why is my clean bar full but the job unfinished?",
+        "answer": "Itch comments usually blame missed dirt such as tail ink or the back of the neck. Restart and re-scout before assuming a softlock."
+      },
+      {
+        "question": "How do I avoid the Conrad softlock?",
+        "answer": "The Kobold Hotfix addressed a known level-8 Conrad request-order softlock. Still complete personal requests in the prompted order, do not skip ahead of the visit’s request, and keep a save before late Conrad request chains."
+      },
+      {
+        "question": "When should I reload instead of unsticking?",
+        "answer": "If Unstick Kobold fails twice, if dirt scouting fails twice, if a request-order softlock already happened, or if credits menu choices froze the file."
+      },
+      {
+        "question": "Can continue after an ending get me stuck in credits?",
+        "answer": "Players report that continuing a finished slot can dump you back into credits. Branch from a pre-credits backup instead."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "beginner-guide",
+      "controls-and-tools",
+      "endings-guide"
+    ],
+    "lastReviewed": "2026-09-16",
+    "densityTargets": [
+      {
+        "term": "Drag'n Wash",
+        "min": 0.8,
+        "max": 2
+      }
+    ]
+  }
+]

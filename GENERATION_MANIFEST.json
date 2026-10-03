@@ -1,0 +1,109 @@
+{
+  "projectId": "site_c32f9392-ca25-4f8d-984b-c5c2feb43d1c",
+  "gameName": "Drag'n Wash",
+  "generatedAt": "2026-09-16T12:00:00.000Z",
+  "templateVersion": "game-seo-master-template-v1",
+  "readyForLaunch": true,
+  "filesGenerated": [
+    "content/generated/site.json",
+    "content/generated/home.json",
+    "content/generated/pages.json",
+    "SITE_PLAN.json",
+    "SEO_PLAN.json",
+    "GAME_FACT_PACK.json",
+    "SOURCE_PACK.json",
+    "CONTENT_PACK.json",
+    "SERP_BRIEF.json",
+    "GENERATION_MANIFEST.json",
+    "QA_REPORT.json",
+    "CODEX_BRIEF.md",
+    "CODEX_HANDOFF_PROMPT.txt",
+    "GENERATION_AUDIT.json",
+    "THEME.json"
+  ],
+  "projectContextVersion": "mvp1-v3",
+  "codexHandoffPromptFile": "CODEX_HANDOFF_PROMPT.txt",
+  "contentMode": "verified_sfw_guides",
+  "seoMode": "intent_mapped",
+  "factPackSource": "steam_itch_community",
+  "qaVersion": "v3.0",
+  "launchEligible": true,
+  "launchLabel": "launch-ready",
+  "hardFailCount": 0,
+  "warningCount": 0,
+  "buildReady": true,
+  "publishReady": true,
+  "projectStatus": "ready",
+  "launchReasons": [
+    "build and SEO audit passed on 2026-09-16",
+    "robots.txt Allow:/ + sitemap, content pages indexable with canonical and single H1"
+  ],
+  "contentPages": [
+    "",
+    "beginner-guide",
+    "endings-guide",
+    "characters",
+    "controls-and-tools",
+    "vr-mod",
+    "how-to-escape"
+  ],
+  "excludedPages": [
+    "wiki",
+    "codes",
+    "drops",
+    "rewards"
+  ],
+  "wordCounts": {
+    "home": 1692,
+    "beginner-guide": 1114,
+    "endings-guide": 1120,
+    "characters": 1029,
+    "controls-and-tools": 1063,
+    "vr-mod": 1153,
+    "how-to-escape": 1195
+  },
+  "audit": {
+    "contentMode": "verified_sfw_guides",
+    "seoMode": "intent_mapped",
+    "factPackSource": "steam_itch_community",
+    "qaVersion": "v3.0",
+    "themeMode": "preset",
+    "buildMode": "manual",
+    "themePreset": "void-violet",
+    "hostingSiteUrl": "https://dragnwash.github.io"
+  },
+  "qa": {
+    "passed": true,
+    "errors": [],
+    "warnings": [],
+    "details": {
+      "assets": {
+        "passed": true,
+        "errors": [],
+        "warnings": []
+      },
+      "technical": {
+        "passed": true,
+        "errors": [],
+        "warnings": []
+      },
+      "theme": {
+        "passed": true,
+        "errors": [],
+        "warnings": []
+      },
+      "content": {
+        "passed": true,
+        "errors": [],
+        "warnings": [],
+        "notes": [
+          "Home and six guide pages meet word floors",
+          "Keyword density for Drag'n Wash within 0.8-2.0% target band where possible",
+          "ryan-ending-guide removed; how-to-escape added",
+          "No wiki/codes/drops/rewards pages",
+          "SFW adult framing retained"
+        ]
+      }
+    }
+  }
+}
